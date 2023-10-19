@@ -1,4 +1,4 @@
-indicator_code,indicator_name,long_definition
+indicator_code,indicator_name,definition_or_additional_info
 ADMRASTH_M_TOTAL_15_AS_STD_RATE_MPOP,Asthma hospital admission,"Male, 15 years old and over, Age-sex standardised rate per 100 000 population"
 ADMRASTH_M_TOTAL_15_LOW_CI,Asthma hospital admission,"Male, 15 years old and over, Lower confidence interval"
 ADMRASTH_M_TOTAL_15_UP_CI,Asthma hospital admission,"Male, 15 years old and over, Upper confidence interval"
