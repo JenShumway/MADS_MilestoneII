@@ -416,528 +416,528 @@ FOODCALT,Total calories supply,Kilocalories per capita per day
 FOODPROT,Total protein supply,Grams per capita per day
 FOODSUCR,Sugar supply,Kilos per capita per year
 FOODFRUI,Fruits supply,Kilos per capita per year
-FOODVEGE,"Vegetables consumption, daily (survey)",% of females aged 15 years old and over
-FOODVEGE,"Vegetables consumption, daily (survey)",% of males aged 15 years old and over
-FOODVEGE,"Vegetables consumption, daily (survey)",% of population aged 15 years old and over
-FOODFRUT,"Fruits consumption, daily (survey)",% of females aged 15 years old and over
-FOODFRUT,"Fruits consumption, daily (survey)",% of males aged 15 years old and over
-FOODFRUT,"Fruits consumption, daily (survey)",% of population aged 15 years old and over
+FOODVEGE_FRVGFMTF,"Vegetables consumption, daily (survey)",% of females aged 15 years old and over
+FOODVEGE_FRVGHOTH,"Vegetables consumption, daily (survey)",% of males aged 15 years old and over
+FOODVEGE_FRVGTOTX,"Vegetables consumption, daily (survey)",% of population aged 15 years old and over
+FOODFRUT_FRVGFMTF,"Fruits consumption, daily (survey)",% of females aged 15 years old and over
+FOODFRUT_FRVGHOTH,"Fruits consumption, daily (survey)",% of males aged 15 years old and over
+FOODFRUT_FRVGTOTX,"Fruits consumption, daily (survey)",% of population aged 15 years old and over
 ACOLALCT,Alcohol consumption,Litres per capita (15+)
-TOBATBCT,Tobacco consumption,Grams per capita (15+)
-TOBATBCT,Tobacco consumption,Cigarettes per smoker per day
-TOBATBCT,Tobacco consumption,% of females aged 15+ who are daily smokers
-TOBATBCT,Tobacco consumption,% of males aged 15+ who are daily smokers
-TOBATBCT,Tobacco consumption,% of population aged 15+ who are daily smokers
-TOBATBCT,Tobacco consumption,% of population aged 15-24 years old who are daily smokers
-TOBATBCT,Tobacco consumption,% of males aged 15-24 years old who are daily smokers
-TOBATBCT,Tobacco consumption,% of females aged 15-24 years old who are daily smokers
-BODYOVSR,"Overweight population, self-reported",% of females
-BODYOVSR,"Overweight population, self-reported",% of males
-BODYOVSR,"Overweight population, self-reported",% of total population
-BODYOBSR,"Obese population, self-reported",% of females
-BODYOBSR,"Obese population, self-reported",% of males
-BODYOBSR,"Obese population, self-reported",% of total population
-BODYVBSR,"Overweight or obese population, self-reported",% of females
-BODYVBSR,"Overweight or obese population, self-reported",% of males
-BODYVBSR,"Overweight or obese population, self-reported",% of total population
-BODYOVMS,"Overweight population, measured",% of females
-BODYOVMS,"Overweight population, measured",% of males
-BODYOVMS,"Overweight population, measured",% of total population
-BODYOBMS,"Obese population, measured",% of females
-BODYOBMS,"Obese population, measured",% of males
-BODYOBMS,"Obese population, measured",% of total population
-BODYVBMS,"Overweight or obese population, measured",% of females
-BODYVBMS,"Overweight or obese population, measured",% of males
-BODYVBMS,"Overweight or obese population, measured",% of total population
+TOBATBCT_GRPPERQT,Tobacco consumption,Grams per capita (15+)
+TOBATBCT_NBPFUMNB,Tobacco consumption,Cigarettes per smoker per day
+TOBATBCT_PDLSFMTF,Tobacco consumption,% of females aged 15+ who are daily smokers
+TOBATBCT_PDLSHOTH,Tobacco consumption,% of males aged 15+ who are daily smokers
+TOBATBCT_PDLSTOTX,Tobacco consumption,% of population aged 15+ who are daily smokers
+TOBATBCT_YNGPPTPC,Tobacco consumption,% of population aged 15-24 years old who are daily smokers
+TOBATBCT_YNGPPHPH,Tobacco consumption,% of males aged 15-24 years old who are daily smokers
+TOBATBCT_YNGPPFPF,Tobacco consumption,% of females aged 15-24 years old who are daily smokers
+BODYOVSR_PERWOMTF,"Overweight population, self-reported",% of females
+BODYOVSR_PERMANTH,"Overweight population, self-reported",% of males
+BODYOVSR_TOTPOPTX,"Overweight population, self-reported",% of total population
+BODYOBSR_PERWOMTF,"Obese population, self-reported",% of females
+BODYOBSR_PERMANTH,"Obese population, self-reported",% of males
+BODYOBSR_TOTPOPTX,"Obese population, self-reported",% of total population
+BODYVBSR_PERWOMTF,"Overweight or obese population, self-reported",% of females
+BODYVBSR_PERMANTH,"Overweight or obese population, self-reported",% of males
+BODYVBSR_TOTPOPTX,"Overweight or obese population, self-reported",% of total population
+BODYOVMS_PERWOMTF,"Overweight population, measured",% of females
+BODYOVMS_PERMANTH,"Overweight population, measured",% of males
+BODYOVMS_TOTPOPTX,"Overweight population, measured",% of total population
+BODYOBMS_PERWOMTF,"Obese population, measured",% of females
+BODYOBMS_PERMANTH,"Obese population, measured",% of males
+BODYOBMS_TOTPOPTX,"Obese population, measured",% of total population
+BODYVBMS_PERWOMTF,"Overweight or obese population, measured",% of females
+BODYVBMS_PERMANTH,"Overweight or obese population, measured",% of males
+BODYVBMS_TOTPOPTX,"Overweight or obese population, measured",% of total population
 FOODVEGG,Vegetables supply,Kilos per capita per year
-VAPEVAPY,"Vaping population: e-cigarettes use, young adults (aged 15-24 years old)",% of females who are regular users
-VAPEVAPY,"Vaping population: e-cigarettes use, young adults (aged 15-24 years old)",% of population who are regular users
-VAPEVAPY,"Vaping population: e-cigarettes use, young adults (aged 15-24 years old)",% of males who are regular users
-VAPEVAPA,"Vaping population: e-cigarettes use, adults (aged 15+)",% of females who are regular users
-VAPEVAPA,"Vaping population: e-cigarettes use, adults (aged 15+)",% of population who are regular users
-VAPEVAPA,"Vaping population: e-cigarettes use, adults (aged 15+)",% of males who are regular users
+VAPEVAPY_VAPREGPF,"Vaping population: e-cigarettes use, young adults (aged 15-24 years old)",% of females who are regular users
+VAPEVAPY_VAPREGPC,"Vaping population: e-cigarettes use, young adults (aged 15-24 years old)",% of population who are regular users
+VAPEVAPY_VAPREGPH,"Vaping population: e-cigarettes use, young adults (aged 15-24 years old)",% of males who are regular users
+VAPEVAPA_VAPREGPF,"Vaping population: e-cigarettes use, adults (aged 15+)",% of females who are regular users
+VAPEVAPA_VAPREGPC,"Vaping population: e-cigarettes use, adults (aged 15+)",% of population who are regular users
+VAPEVAPA_VAPREGPH,"Vaping population: e-cigarettes use, adults (aged 15+)",% of males who are regular users
 INJRACIR,Injuries in road traffic accidents,Injured per million population
-CICDALLC,All causes of death,Deaths per 100 000 population (standardised rates)
-CICDINFE,Certain infectious and parasitic diseases,Deaths per 100 000 population (standardised rates)
-CICDHIVD,HIV-AIDS,Deaths per 100 000 population (standardised rates)
-CICDTUME,Malignant neoplasms,Deaths per 100 000 population (standardised rates)
-CICDNCRA,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 population (standardised rates)
-CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 population (standardised rates)
-CICDSANG,Diseases of the blood and blood-forming organs,Deaths per 100 000 population (standardised rates)
-CICDENDO,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 population (standardised rates)
-CICDDBTM,Diabetes mellitus,Deaths per 100 000 population (standardised rates)
-CICDTROU,Mental and behavioural disorders,Deaths per 100 000 population (standardised rates)
-CICDNERV,Diseases of the nervous system,Deaths per 100 000 population (standardised rates)
-CICDCIRC,Diseases of the circulatory system,Deaths per 100 000 population (standardised rates)
-CICDISCH,Ischaemic heart diseases,Deaths per 100 000 population (standardised rates)
-CICDMYOC,Acute myocardial infarction,Deaths per 100 000 population (standardised rates)
-CICDCERV,Cerebrovascular diseases,Deaths per 100 000 population (standardised rates)
-CICDREPS,Diseases of the respiratory system,Deaths per 100 000 population (standardised rates)
-CICDINPN,Influenza,Deaths per 100 000 population (standardised rates)
-CICDBAEM,Chronic obstructive pulmonary diseases,Deaths per 100 000 population (standardised rates)
-CICDDIGE,Diseases of the digestive system,Deaths per 100 000 population (standardised rates)
-CICDCIRR,Chronic liver diseases and cirrhosis,Deaths per 100 000 population (standardised rates)
-CICDPEAU,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 population (standardised rates)
-CICDOSTE,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 population (standardised rates)
-CICDGENI,Diseases of the genitourinary system,Deaths per 100 000 population (standardised rates)
-CICDAFFE,Certain conditions originating in the perinatal period,Deaths per 100 000 population (standardised rates)
-CICDCONG,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 population (standardised rates)
-CICDSYMP,"Symptoms, signs, ill-defined causes",Deaths per 100 000 population (standardised rates)
-CICDEXTC,External causes of mortality,Deaths per 100 000 population (standardised rates)
-CICDTRAC,Transport Accidents,Deaths per 100 000 population (standardised rates)
-CICDCHUT,Accidental falls,Deaths per 100 000 population (standardised rates)
-CICDHARM,Intentional self-harm,Deaths per 100 000 population (standardised rates)
-CICDHOCD,Assault,Deaths per 100 000 population (standardised rates)
-CICDTBLS,Tuberculosis,Deaths per 100 000 population (standardised rates)
-CICDNEOP,Neoplasms,Deaths per 100 000 population (standardised rates)
-CICDSTOM,Malignant neoplasms of stomach,Deaths per 100 000 population (standardised rates)
-CICDPANC,Malignant neoplasms of pancreas,Deaths per 100 000 population (standardised rates)
-CICDLIVR,Malignant neoplasms of liver,Deaths per 100 000 population (standardised rates)
-CICDHODG,Hodgkin’s disease,Deaths per 100 000 population (standardised rates)
-CICDLEUK,Leukemia,Deaths per 100 000 population (standardised rates)
-CICDBLAD,Malignant neoplasms of bladder,Deaths per 100 000 population (standardised rates)
-CICDSKIN,Malignant melanoma of skin,Deaths per 100 000 population (standardised rates)
-CICDDMTA,Dementia,Deaths per 100 000 population (standardised rates)
-CICDPARK,Parkinson's disease,Deaths per 100 000 population (standardised rates)
-CICDALZH,Alzheimer's disease,Deaths per 100 000 population (standardised rates)
-CICDPNEU,Pneumonia,Deaths per 100 000 population (standardised rates)
-CICDASMA,Asthma,Deaths per 100 000 population (standardised rates)
-CICDPEPT,Peptic ulcer,Deaths per 100 000 population (standardised rates)
-CICDACCD,Accidents,Deaths per 100 000 population (standardised rates)
-CICDPOSN,Accidental poisoning,Deaths per 100 000 population (standardised rates)
-CICDALLC,All causes of death,Deaths per 100 000 females (standardised rates)
-CICDINFE,Certain infectious and parasitic diseases,Deaths per 100 000 females (standardised rates)
-CICDHIVD,HIV-AIDS,Deaths per 100 000 females (standardised rates)
-CICDTUME,Malignant neoplasms,Deaths per 100 000 females (standardised rates)
-CICDNCRA,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 females (standardised rates)
-CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 females (standardised rates)
-CICDMNBR,Malignant neoplasms of female breast,Deaths per 100 000 females (standardised rates)
-CICDCRVX,Malignant neoplasms of cervix uteri,Deaths per 100 000 females (standardised rates)
-CICDSANG,Diseases of the blood and blood-forming organs,Deaths per 100 000 females (standardised rates)
-CICDENDO,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 females (standardised rates)
-CICDDBTM,Diabetes mellitus,Deaths per 100 000 females (standardised rates)
-CICDTROU,Mental and behavioural disorders,Deaths per 100 000 females (standardised rates)
-CICDNERV,Diseases of the nervous system,Deaths per 100 000 females (standardised rates)
-CICDCIRC,Diseases of the circulatory system,Deaths per 100 000 females (standardised rates)
-CICDISCH,Ischaemic heart diseases,Deaths per 100 000 females (standardised rates)
-CICDMYOC,Acute myocardial infarction,Deaths per 100 000 females (standardised rates)
-CICDCERV,Cerebrovascular diseases,Deaths per 100 000 females (standardised rates)
-CICDREPS,Diseases of the respiratory system,Deaths per 100 000 females (standardised rates)
-CICDINPN,Influenza,Deaths per 100 000 females (standardised rates)
-CICDBAEM,Chronic obstructive pulmonary diseases,Deaths per 100 000 females (standardised rates)
-CICDDIGE,Diseases of the digestive system,Deaths per 100 000 females (standardised rates)
-CICDCIRR,Chronic liver diseases and cirrhosis,Deaths per 100 000 females (standardised rates)
-CICDPEAU,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 females (standardised rates)
-CICDOSTE,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 females (standardised rates)
-CICDGENI,Diseases of the genitourinary system,Deaths per 100 000 females (standardised rates)
-CICDGROS,"Pregnancy, childbirth and the puerperium",Deaths per 100 000 females (standardised rates)
-CICDAFFE,Certain conditions originating in the perinatal period,Deaths per 100 000 females (standardised rates)
-CICDCONG,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 females (standardised rates)
-CICDSYMP,"Symptoms, signs, ill-defined causes",Deaths per 100 000 females (standardised rates)
-CICDEXTC,External causes of mortality,Deaths per 100 000 females (standardised rates)
-CICDTRAC,Transport Accidents,Deaths per 100 000 females (standardised rates)
-CICDCHUT,Accidental falls,Deaths per 100 000 females (standardised rates)
-CICDHARM,Intentional self-harm,Deaths per 100 000 females (standardised rates)
-CICDHOCD,Assault,Deaths per 100 000 females (standardised rates)
-CICDTBLS,Tuberculosis,Deaths per 100 000 females (standardised rates)
-CICDNEOP,Neoplasms,Deaths per 100 000 females (standardised rates)
-CICDSTOM,Malignant neoplasms of stomach,Deaths per 100 000 females (standardised rates)
-CICDPANC,Malignant neoplasms of pancreas,Deaths per 100 000 females (standardised rates)
-CICDLIVR,Malignant neoplasms of liver,Deaths per 100 000 females (standardised rates)
-CICDOVRY,Malignant neoplasms of ovary,Deaths per 100 000 females (standardised rates)
-CICDHODG,Hodgkin’s disease,Deaths per 100 000 females (standardised rates)
-CICDLEUK,Leukemia,Deaths per 100 000 females (standardised rates)
-CICDBLAD,Malignant neoplasms of bladder,Deaths per 100 000 females (standardised rates)
-CICDSKIN,Malignant melanoma of skin,Deaths per 100 000 females (standardised rates)
-CICDDMTA,Dementia,Deaths per 100 000 females (standardised rates)
-CICDPARK,Parkinson's disease,Deaths per 100 000 females (standardised rates)
-CICDALZH,Alzheimer's disease,Deaths per 100 000 females (standardised rates)
-CICDPNEU,Pneumonia,Deaths per 100 000 females (standardised rates)
-CICDASMA,Asthma,Deaths per 100 000 females (standardised rates)
-CICDPEPT,Peptic ulcer,Deaths per 100 000 females (standardised rates)
-CICDACCD,Accidents,Deaths per 100 000 females (standardised rates)
-CICDPOSN,Accidental poisoning,Deaths per 100 000 females (standardised rates)
-CICDALLC,All causes of death,Deaths per 100 000 males (standardised rates)
-CICDINFE,Certain infectious and parasitic diseases,Deaths per 100 000 males (standardised rates)
-CICDHIVD,HIV-AIDS,Deaths per 100 000 males (standardised rates)
-CICDTUME,Malignant neoplasms,Deaths per 100 000 males (standardised rates)
-CICDNCRA,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 males (standardised rates)
-CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 males (standardised rates)
-CICDMNPR,Malignant neoplasms of prostate,Deaths per 100 000 males (standardised rates)
-CICDSANG,Diseases of the blood and blood-forming organs,Deaths per 100 000 males (standardised rates)
-CICDENDO,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 males (standardised rates)
-CICDDBTM,Diabetes mellitus,Deaths per 100 000 males (standardised rates)
-CICDTROU,Mental and behavioural disorders,Deaths per 100 000 males (standardised rates)
-CICDNERV,Diseases of the nervous system,Deaths per 100 000 males (standardised rates)
-CICDCIRC,Diseases of the circulatory system,Deaths per 100 000 males (standardised rates)
-CICDISCH,Ischaemic heart diseases,Deaths per 100 000 males (standardised rates)
-CICDMYOC,Acute myocardial infarction,Deaths per 100 000 males (standardised rates)
-CICDCERV,Cerebrovascular diseases,Deaths per 100 000 males (standardised rates)
-CICDREPS,Diseases of the respiratory system,Deaths per 100 000 males (standardised rates)
-CICDINPN,Influenza,Deaths per 100 000 males (standardised rates)
-CICDBAEM,Chronic obstructive pulmonary diseases,Deaths per 100 000 males (standardised rates)
-CICDDIGE,Diseases of the digestive system,Deaths per 100 000 males (standardised rates)
-CICDCIRR,Chronic liver diseases and cirrhosis,Deaths per 100 000 males (standardised rates)
-CICDPEAU,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 males (standardised rates)
-CICDOSTE,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 males (standardised rates)
-CICDGENI,Diseases of the genitourinary system,Deaths per 100 000 males (standardised rates)
-CICDAFFE,Certain conditions originating in the perinatal period,Deaths per 100 000 males (standardised rates)
-CICDCONG,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 males (standardised rates)
-CICDSYMP,"Symptoms, signs, ill-defined causes",Deaths per 100 000 males (standardised rates)
-CICDEXTC,External causes of mortality,Deaths per 100 000 males (standardised rates)
-CICDTRAC,Transport Accidents,Deaths per 100 000 males (standardised rates)
-CICDCHUT,Accidental falls,Deaths per 100 000 males (standardised rates)
-CICDHARM,Intentional self-harm,Deaths per 100 000 males (standardised rates)
-CICDHOCD,Assault,Deaths per 100 000 males (standardised rates)
-CICDTBLS,Tuberculosis,Deaths per 100 000 males (standardised rates)
-CICDNEOP,Neoplasms,Deaths per 100 000 males (standardised rates)
-CICDSTOM,Malignant neoplasms of stomach,Deaths per 100 000 males (standardised rates)
-CICDPANC,Malignant neoplasms of pancreas,Deaths per 100 000 males (standardised rates)
-CICDLIVR,Malignant neoplasms of liver,Deaths per 100 000 males (standardised rates)
-CICDHODG,Hodgkin’s disease,Deaths per 100 000 males (standardised rates)
-CICDLEUK,Leukemia,Deaths per 100 000 males (standardised rates)
-CICDBLAD,Malignant neoplasms of bladder,Deaths per 100 000 males (standardised rates)
-CICDSKIN,Malignant melanoma of skin,Deaths per 100 000 males (standardised rates)
-CICDDMTA,Dementia,Deaths per 100 000 males (standardised rates)
-CICDPARK,Parkinson's disease,Deaths per 100 000 males (standardised rates)
-CICDALZH,Alzheimer's disease,Deaths per 100 000 males (standardised rates)
-CICDPNEU,Pneumonia,Deaths per 100 000 males (standardised rates)
-CICDASMA,Asthma,Deaths per 100 000 males (standardised rates)
-CICDPEPT,Peptic ulcer,Deaths per 100 000 males (standardised rates)
-CICDACCD,Accidents,Deaths per 100 000 males (standardised rates)
-CICDPOSN,Accidental poisoning,Deaths per 100 000 males (standardised rates)
-PLYLALLC,All causes of death,"Years lost, /100 000 males, aged 75 years old"
-PLYLINFE,Certain infectious and parasitic diseases,"Years lost, /100 000 males, aged 75 years old"
-PLYLHIVD,HIV-AIDS,"Years lost, /100 000 males, aged 75 years old"
-PLYLTUME,Malignant neoplasms,"Years lost, /100 000 males, aged 75 years old"
-PLYLNCRA,"Malignant neoplasms of colon, rectum and anus","Years lost, /100 000 males, aged 75 years old"
-PLYLCANC,"Malignant neoplasms of trachea, bronchus, lung","Years lost, /100 000 males, aged 75 years old"
+CICDALLC_TXCMILTX,All causes of death,Deaths per 100 000 population (standardised rates)
+CICDINFE_TXCMILTX,Certain infectious and parasitic diseases,Deaths per 100 000 population (standardised rates)
+CICDHIVD_TXCMILTX,HIV-AIDS,Deaths per 100 000 population (standardised rates)
+CICDTUME_TXCMILTX,Malignant neoplasms,Deaths per 100 000 population (standardised rates)
+CICDNCRA_TXCMILTX,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 population (standardised rates)
+CICDCANC_TXCMILTX,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 population (standardised rates)
+CICDSANG_TXCMILTX,Diseases of the blood and blood-forming organs,Deaths per 100 000 population (standardised rates)
+CICDENDO_TXCMILTX,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 population (standardised rates)
+CICDDBTM_TXCMILTX,Diabetes mellitus,Deaths per 100 000 population (standardised rates)
+CICDTROU_TXCMILTX,Mental and behavioural disorders,Deaths per 100 000 population (standardised rates)
+CICDNERV_TXCMILTX,Diseases of the nervous system,Deaths per 100 000 population (standardised rates)
+CICDCIRC_TXCMILTX,Diseases of the circulatory system,Deaths per 100 000 population (standardised rates)
+CICDISCH_TXCMILTX,Ischaemic heart diseases,Deaths per 100 000 population (standardised rates)
+CICDMYOC_TXCMILTX,Acute myocardial infarction,Deaths per 100 000 population (standardised rates)
+CICDCERV_TXCMILTX,Cerebrovascular diseases,Deaths per 100 000 population (standardised rates)
+CICDREPS_TXCMILTX,Diseases of the respiratory system,Deaths per 100 000 population (standardised rates)
+CICDINPN_TXCMILTX,Influenza,Deaths per 100 000 population (standardised rates)
+CICDBAEM_TXCMILTX,Chronic obstructive pulmonary diseases,Deaths per 100 000 population (standardised rates)
+CICDDIGE_TXCMILTX,Diseases of the digestive system,Deaths per 100 000 population (standardised rates)
+CICDCIRR_TXCMILTX,Chronic liver diseases and cirrhosis,Deaths per 100 000 population (standardised rates)
+CICDPEAU_TXCMILTX,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 population (standardised rates)
+CICDOSTE_TXCMILTX,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 population (standardised rates)
+CICDGENI_TXCMILTX,Diseases of the genitourinary system,Deaths per 100 000 population (standardised rates)
+CICDAFFE_TXCMILTX,Certain conditions originating in the perinatal period,Deaths per 100 000 population (standardised rates)
+CICDCONG_TXCMILTX,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 population (standardised rates)
+CICDSYMP_TXCMILTX,"Symptoms, signs, ill-defined causes",Deaths per 100 000 population (standardised rates)
+CICDEXTC_TXCMILTX,External causes of mortality,Deaths per 100 000 population (standardised rates)
+CICDTRAC_TXCMILTX,Transport Accidents,Deaths per 100 000 population (standardised rates)
+CICDCHUT_TXCMILTX,Accidental falls,Deaths per 100 000 population (standardised rates)
+CICDHARM_TXCMILTX,Intentional self-harm,Deaths per 100 000 population (standardised rates)
+CICDHOCD_TXCMILTX,Assault,Deaths per 100 000 population (standardised rates)
+CICDTBLS_TXCMILTX,Tuberculosis,Deaths per 100 000 population (standardised rates)
+CICDNEOP_TXCMILTX,Neoplasms,Deaths per 100 000 population (standardised rates)
+CICDSTOM_TXCMILTX,Malignant neoplasms of stomach,Deaths per 100 000 population (standardised rates)
+CICDPANC_TXCMILTX,Malignant neoplasms of pancreas,Deaths per 100 000 population (standardised rates)
+CICDLIVR_TXCMILTX,Malignant neoplasms of liver,Deaths per 100 000 population (standardised rates)
+CICDHODG_TXCMILTX,Hodgkin’s disease,Deaths per 100 000 population (standardised rates)
+CICDLEUK_TXCMILTX,Leukemia,Deaths per 100 000 population (standardised rates)
+CICDBLAD_TXCMILTX,Malignant neoplasms of bladder,Deaths per 100 000 population (standardised rates)
+CICDSKIN_TXCMILTX,Malignant melanoma of skin,Deaths per 100 000 population (standardised rates)
+CICDDMTA_TXCMILTX,Dementia,Deaths per 100 000 population (standardised rates)
+CICDPARK_TXCMILTX,Parkinson's disease,Deaths per 100 000 population (standardised rates)
+CICDALZH_TXCMILTX,Alzheimer's disease,Deaths per 100 000 population (standardised rates)
+CICDPNEU_TXCMILTX,Pneumonia,Deaths per 100 000 population (standardised rates)
+CICDASMA_TXCMILTX,Asthma,Deaths per 100 000 population (standardised rates)
+CICDPEPT_TXCMILTX,Peptic ulcer,Deaths per 100 000 population (standardised rates)
+CICDACCD_TXCMILTX,Accidents,Deaths per 100 000 population (standardised rates)
+CICDPOSN_TXCMILTX,Accidental poisoning,Deaths per 100 000 population (standardised rates)
+CICDALLC_TXCMFETF,All causes of death,Deaths per 100 000 females (standardised rates)
+CICDINFE_TXCMFETF,Certain infectious and parasitic diseases,Deaths per 100 000 females (standardised rates)
+CICDHIVD_TXCMFETF,HIV-AIDS,Deaths per 100 000 females (standardised rates)
+CICDTUME_TXCMFETF,Malignant neoplasms,Deaths per 100 000 females (standardised rates)
+CICDNCRA_TXCMFETF,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 females (standardised rates)
+CICDCANC_TXCMFETF,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 females (standardised rates)
+CICDMNBR_TXCMFETF,Malignant neoplasms of female breast,Deaths per 100 000 females (standardised rates)
+CICDCRVX_TXCMFETF,Malignant neoplasms of cervix uteri,Deaths per 100 000 females (standardised rates)
+CICDSANG_TXCMFETF,Diseases of the blood and blood-forming organs,Deaths per 100 000 females (standardised rates)
+CICDENDO_TXCMFETF,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 females (standardised rates)
+CICDDBTM_TXCMFETF,Diabetes mellitus,Deaths per 100 000 females (standardised rates)
+CICDTROU_TXCMFETF,Mental and behavioural disorders,Deaths per 100 000 females (standardised rates)
+CICDNERV_TXCMFETF,Diseases of the nervous system,Deaths per 100 000 females (standardised rates)
+CICDCIRC_TXCMFETF,Diseases of the circulatory system,Deaths per 100 000 females (standardised rates)
+CICDISCH_TXCMFETF,Ischaemic heart diseases,Deaths per 100 000 females (standardised rates)
+CICDMYOC_TXCMFETF,Acute myocardial infarction,Deaths per 100 000 females (standardised rates)
+CICDCERV_TXCMFETF,Cerebrovascular diseases,Deaths per 100 000 females (standardised rates)
+CICDREPS_TXCMFETF,Diseases of the respiratory system,Deaths per 100 000 females (standardised rates)
+CICDINPN_TXCMFETF,Influenza,Deaths per 100 000 females (standardised rates)
+CICDBAEM_TXCMFETF,Chronic obstructive pulmonary diseases,Deaths per 100 000 females (standardised rates)
+CICDDIGE_TXCMFETF,Diseases of the digestive system,Deaths per 100 000 females (standardised rates)
+CICDCIRR_TXCMFETF,Chronic liver diseases and cirrhosis,Deaths per 100 000 females (standardised rates)
+CICDPEAU_TXCMFETF,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 females (standardised rates)
+CICDOSTE_TXCMFETF,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 females (standardised rates)
+CICDGENI_TXCMFETF,Diseases of the genitourinary system,Deaths per 100 000 females (standardised rates)
+CICDGROS_TXCMFETF,"Pregnancy, childbirth and the puerperium",Deaths per 100 000 females (standardised rates)
+CICDAFFE_TXCMFETF,Certain conditions originating in the perinatal period,Deaths per 100 000 females (standardised rates)
+CICDCONG_TXCMFETF,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 females (standardised rates)
+CICDSYMP_TXCMFETF,"Symptoms, signs, ill-defined causes",Deaths per 100 000 females (standardised rates)
+CICDEXTC_TXCMFETF,External causes of mortality,Deaths per 100 000 females (standardised rates)
+CICDTRAC_TXCMFETF,Transport Accidents,Deaths per 100 000 females (standardised rates)
+CICDCHUT_TXCMFETF,Accidental falls,Deaths per 100 000 females (standardised rates)
+CICDHARM_TXCMFETF,Intentional self-harm,Deaths per 100 000 females (standardised rates)
+CICDHOCD_TXCMFETF,Assault,Deaths per 100 000 females (standardised rates)
+CICDTBLS_TXCMFETF,Tuberculosis,Deaths per 100 000 females (standardised rates)
+CICDNEOP_TXCMFETF,Neoplasms,Deaths per 100 000 females (standardised rates)
+CICDSTOM_TXCMFETF,Malignant neoplasms of stomach,Deaths per 100 000 females (standardised rates)
+CICDPANC_TXCMFETF,Malignant neoplasms of pancreas,Deaths per 100 000 females (standardised rates)
+CICDLIVR_TXCMFETF,Malignant neoplasms of liver,Deaths per 100 000 females (standardised rates)
+CICDOVRY_TXCMFETF,Malignant neoplasms of ovary,Deaths per 100 000 females (standardised rates)
+CICDHODG_TXCMFETF,Hodgkin’s disease,Deaths per 100 000 females (standardised rates)
+CICDLEUK_TXCMFETF,Leukemia,Deaths per 100 000 females (standardised rates)
+CICDBLAD_TXCMFETF,Malignant neoplasms of bladder,Deaths per 100 000 females (standardised rates)
+CICDSKIN_TXCMFETF,Malignant melanoma of skin,Deaths per 100 000 females (standardised rates)
+CICDDMTA_TXCMFETF,Dementia,Deaths per 100 000 females (standardised rates)
+CICDPARK_TXCMFETF,Parkinson's disease,Deaths per 100 000 females (standardised rates)
+CICDALZH_TXCMFETF,Alzheimer's disease,Deaths per 100 000 females (standardised rates)
+CICDPNEU_TXCMFETF,Pneumonia,Deaths per 100 000 females (standardised rates)
+CICDASMA_TXCMFETF,Asthma,Deaths per 100 000 females (standardised rates)
+CICDPEPT_TXCMFETF,Peptic ulcer,Deaths per 100 000 females (standardised rates)
+CICDACCD_TXCMFETF,Accidents,Deaths per 100 000 females (standardised rates)
+CICDPOSN_TXCMFETF,Accidental poisoning,Deaths per 100 000 females (standardised rates)
+CICDALLC_TXCMHOTH,All causes of death,Deaths per 100 000 males (standardised rates)
+CICDINFE_TXCMHOTH,Certain infectious and parasitic diseases,Deaths per 100 000 males (standardised rates)
+CICDHIVD_TXCMHOTH,HIV-AIDS,Deaths per 100 000 males (standardised rates)
+CICDTUME_TXCMHOTH,Malignant neoplasms,Deaths per 100 000 males (standardised rates)
+CICDNCRA_TXCMHOTH,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 males (standardised rates)
+CICDCANC_TXCMHOTH,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 males (standardised rates)
+CICDMNPR_TXCMHOTH,Malignant neoplasms of prostate,Deaths per 100 000 males (standardised rates)
+CICDSANG_TXCMHOTH,Diseases of the blood and blood-forming organs,Deaths per 100 000 males (standardised rates)
+CICDENDO_TXCMHOTH,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 males (standardised rates)
+CICDDBTM_TXCMHOTH,Diabetes mellitus,Deaths per 100 000 males (standardised rates)
+CICDTROU_TXCMHOTH,Mental and behavioural disorders,Deaths per 100 000 males (standardised rates)
+CICDNERV_TXCMHOTH,Diseases of the nervous system,Deaths per 100 000 males (standardised rates)
+CICDCIRC_TXCMHOTH,Diseases of the circulatory system,Deaths per 100 000 males (standardised rates)
+CICDISCH_TXCMHOTH,Ischaemic heart diseases,Deaths per 100 000 males (standardised rates)
+CICDMYOC_TXCMHOTH,Acute myocardial infarction,Deaths per 100 000 males (standardised rates)
+CICDCERV_TXCMHOTH,Cerebrovascular diseases,Deaths per 100 000 males (standardised rates)
+CICDREPS_TXCMHOTH,Diseases of the respiratory system,Deaths per 100 000 males (standardised rates)
+CICDINPN_TXCMHOTH,Influenza,Deaths per 100 000 males (standardised rates)
+CICDBAEM_TXCMHOTH,Chronic obstructive pulmonary diseases,Deaths per 100 000 males (standardised rates)
+CICDDIGE_TXCMHOTH,Diseases of the digestive system,Deaths per 100 000 males (standardised rates)
+CICDCIRR_TXCMHOTH,Chronic liver diseases and cirrhosis,Deaths per 100 000 males (standardised rates)
+CICDPEAU_TXCMHOTH,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 males (standardised rates)
+CICDOSTE_TXCMHOTH,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 males (standardised rates)
+CICDGENI_TXCMHOTH,Diseases of the genitourinary system,Deaths per 100 000 males (standardised rates)
+CICDAFFE_TXCMHOTH,Certain conditions originating in the perinatal period,Deaths per 100 000 males (standardised rates)
+CICDCONG_TXCMHOTH,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 males (standardised rates)
+CICDSYMP_TXCMHOTH,"Symptoms, signs, ill-defined causes",Deaths per 100 000 males (standardised rates)
+CICDEXTC_TXCMHOTH,External causes of mortality,Deaths per 100 000 males (standardised rates)
+CICDTRAC_TXCMHOTH,Transport Accidents,Deaths per 100 000 males (standardised rates)
+CICDCHUT_TXCMHOTH,Accidental falls,Deaths per 100 000 males (standardised rates)
+CICDHARM_TXCMHOTH,Intentional self-harm,Deaths per 100 000 males (standardised rates)
+CICDHOCD_TXCMHOTH,Assault,Deaths per 100 000 males (standardised rates)
+CICDTBLS_TXCMHOTH,Tuberculosis,Deaths per 100 000 males (standardised rates)
+CICDNEOP_TXCMHOTH,Neoplasms,Deaths per 100 000 males (standardised rates)
+CICDSTOM_TXCMHOTH,Malignant neoplasms of stomach,Deaths per 100 000 males (standardised rates)
+CICDPANC_TXCMHOTH,Malignant neoplasms of pancreas,Deaths per 100 000 males (standardised rates)
+CICDLIVR_TXCMHOTH,Malignant neoplasms of liver,Deaths per 100 000 males (standardised rates)
+CICDHODG_TXCMHOTH,Hodgkin’s disease,Deaths per 100 000 males (standardised rates)
+CICDLEUK_TXCMHOTH,Leukemia,Deaths per 100 000 males (standardised rates)
+CICDBLAD_TXCMHOTH,Malignant neoplasms of bladder,Deaths per 100 000 males (standardised rates)
+CICDSKIN_TXCMHOTH,Malignant melanoma of skin,Deaths per 100 000 males (standardised rates)
+CICDDMTA_TXCMHOTH,Dementia,Deaths per 100 000 males (standardised rates)
+CICDPARK_TXCMHOTH,Parkinson's disease,Deaths per 100 000 males (standardised rates)
+CICDALZH_TXCMHOTH,Alzheimer's disease,Deaths per 100 000 males (standardised rates)
+CICDPNEU_TXCMHOTH,Pneumonia,Deaths per 100 000 males (standardised rates)
+CICDASMA_TXCMHOTH,Asthma,Deaths per 100 000 males (standardised rates)
+CICDPEPT_TXCMHOTH,Peptic ulcer,Deaths per 100 000 males (standardised rates)
+CICDACCD_TXCMHOTH,Accidents,Deaths per 100 000 males (standardised rates)
+CICDPOSN_TXCMHOTH,Accidental poisoning,Deaths per 100 000 males (standardised rates)
+PLYLALLC_ANNHOMTH,All causes of death,"Years lost, /100 000 males, aged 75 years old"
+PLYLINFE_ANNHOMTH,Certain infectious and parasitic diseases,"Years lost, /100 000 males, aged 75 years old"
+PLYLHIVD_ANNHOMTH,HIV-AIDS,"Years lost, /100 000 males, aged 75 years old"
+PLYLTUME_ANNHOMTH,Malignant neoplasms,"Years lost, /100 000 males, aged 75 years old"
+PLYLNCRA_ANNHOMTH,"Malignant neoplasms of colon, rectum and anus","Years lost, /100 000 males, aged 75 years old"
+PLYLCANC_ANNHOMTH,"Malignant neoplasms of trachea, bronchus, lung","Years lost, /100 000 males, aged 75 years old"
 PLYLMNPR,Malignant neoplasms of prostate,"Years lost, /100 000 males, aged 75 years old"
-PLYLSANG,Diseases of the blood and blood-forming organs,"Years lost, /100 000 males, aged 75 years old"
-PLYLENDO,"Endocrine, nutritional and metabolic diseases","Years lost, /100 000 males, aged 75 years old"
-PLYLDBTM,Diabetes mellitus,"Years lost, /100 000 males, aged 75 years old"
-PLYLTROU,Mental and behavioural disorders,"Years lost, /100 000 males, aged 75 years old"
-PLYLNERV,Diseases of the nervous system,"Years lost, /100 000 males, aged 75 years old"
-PLYLCIRC,Diseases of the circulatory system,"Years lost, /100 000 males, aged 75 years old"
-PLYLISCH,Ischaemic heart diseases,"Years lost, /100 000 males, aged 75 years old"
-PLYLMYOC,Acute myocardial infarction,"Years lost, /100 000 males, aged 75 years old"
-PLYLCERV,Cerebrovascular diseases,"Years lost, /100 000 males, aged 75 years old"
-PLYLREPS,Diseases of the respiratory system,"Years lost, /100 000 males, aged 75 years old"
-PLYLINPN,Influenza,"Years lost, /100 000 males, aged 75 years old"
-PLYLBAEM,Chronic obstructive pulmonary diseases,"Years lost, /100 000 males, aged 75 years old"
-PLYLDIGE,Diseases of the digestive system,"Years lost, /100 000 males, aged 75 years old"
-PLYLCIRR,Chronic liver diseases and cirrhosis,"Years lost, /100 000 males, aged 75 years old"
-PLYLPEAU,Diseases of the skin and subcutaneous tissue,"Years lost, /100 000 males, aged 75 years old"
-PLYLOSTE,Diseases of the musculoskeletal system and connective tissue,"Years lost, /100 000 males, aged 75 years old"
-PLYLGENI,Diseases of the genitourinary system,"Years lost, /100 000 males, aged 75 years old"
-PLYLAFFE,Certain conditions originating in the perinatal period,"Years lost, /100 000 males, aged 75 years old"
-PLYLCONG,Congenital malformations and chromosomal abnormalities,"Years lost, /100 000 males, aged 75 years old"
-PLYLSYMP,"Symptoms, signs, ill-defined causes","Years lost, /100 000 males, aged 75 years old"
-PLYLEXTC,External causes of mortality,"Years lost, /100 000 males, aged 75 years old"
-PLYLTRAC,Transport Accidents,"Years lost, /100 000 males, aged 75 years old"
-PLYLCHUT,Accidental falls,"Years lost, /100 000 males, aged 75 years old"
-PLYLHARM,Intentional self-harm,"Years lost, /100 000 males, aged 75 years old"
-PLYLHOCD,Assault,"Years lost, /100 000 males, aged 75 years old"
-PLYLTBLS,Tuberculosis,"Years lost, /100 000 males, aged 75 years old"
-PLYLNEOP,Neoplasms,"Years lost, /100 000 males, aged 75 years old"
-PLYLSTOM,Malignant neoplasms of stomach,"Years lost, /100 000 males, aged 75 years old"
-PLYLPANC,Malignant neoplasms of pancreas,"Years lost, /100 000 males, aged 75 years old"
-PLYLLIVR,Malignant neoplasms of liver,"Years lost, /100 000 males, aged 75 years old"
-PLYLHODG,Hodgkin’s disease,"Years lost, /100 000 males, aged 75 years old"
-PLYLLEUK,Leukemia,"Years lost, /100 000 males, aged 75 years old"
-PLYLBLAD,Malignant neoplasms of bladder,"Years lost, /100 000 males, aged 75 years old"
-PLYLSKIN,Malignant melanoma of skin,"Years lost, /100 000 males, aged 75 years old"
-PLYLDMTA,Dementia,"Years lost, /100 000 males, aged 75 years old"
-PLYLPARK,Parkinson's disease,"Years lost, /100 000 males, aged 75 years old"
-PLYLALZH,Alzheimer's disease,"Years lost, /100 000 males, aged 75 years old"
-PLYLPNEU,Pneumonia,"Years lost, /100 000 males, aged 75 years old"
-PLYLASMA,Asthma,"Years lost, /100 000 males, aged 75 years old"
-PLYLPEPT,Peptic ulcer,"Years lost, /100 000 males, aged 75 years old"
-PLYLACCD,Accidents,"Years lost, /100 000 males, aged 75 years old"
-PLYLPOSN,Accidental poisoning,"Years lost, /100 000 males, aged 75 years old"
-PLYLALLC,All causes of death,"Years lost, /100 000 females, aged 75 years old"
-PLYLINFE,Certain infectious and parasitic diseases,"Years lost, /100 000 females, aged 75 years old"
-PLYLHIVD,HIV-AIDS,"Years lost, /100 000 females, aged 75 years old"
-PLYLTUME,Malignant neoplasms,"Years lost, /100 000 females, aged 75 years old"
-PLYLNCRA,"Malignant neoplasms of colon, rectum and anus","Years lost, /100 000 females, aged 75 years old"
-PLYLCANC,"Malignant neoplasms of trachea, bronchus, lung","Years lost, /100 000 females, aged 75 years old"
+PLYLSANG_ANNHOMTH,Diseases of the blood and blood-forming organs,"Years lost, /100 000 males, aged 75 years old"
+PLYLENDO_ANNHOMTH,"Endocrine, nutritional and metabolic diseases","Years lost, /100 000 males, aged 75 years old"
+PLYLDBTM_ANNHOMTH,Diabetes mellitus,"Years lost, /100 000 males, aged 75 years old"
+PLYLTROU_ANNHOMTH,Mental and behavioural disorders,"Years lost, /100 000 males, aged 75 years old"
+PLYLNERV_ANNHOMTH,Diseases of the nervous system,"Years lost, /100 000 males, aged 75 years old"
+PLYLCIRC_ANNHOMTH,Diseases of the circulatory system,"Years lost, /100 000 males, aged 75 years old"
+PLYLISCH_ANNHOMTH,Ischaemic heart diseases,"Years lost, /100 000 males, aged 75 years old"
+PLYLMYOC_ANNHOMTH,Acute myocardial infarction,"Years lost, /100 000 males, aged 75 years old"
+PLYLCERV_ANNHOMTH,Cerebrovascular diseases,"Years lost, /100 000 males, aged 75 years old"
+PLYLREPS_ANNHOMTH,Diseases of the respiratory system,"Years lost, /100 000 males, aged 75 years old"
+PLYLINPN_ANNHOMTH,Influenza,"Years lost, /100 000 males, aged 75 years old"
+PLYLBAEM_ANNHOMTH,Chronic obstructive pulmonary diseases,"Years lost, /100 000 males, aged 75 years old"
+PLYLDIGE_ANNHOMTH,Diseases of the digestive system,"Years lost, /100 000 males, aged 75 years old"
+PLYLCIRR_ANNHOMTH,Chronic liver diseases and cirrhosis,"Years lost, /100 000 males, aged 75 years old"
+PLYLPEAU_ANNHOMTH,Diseases of the skin and subcutaneous tissue,"Years lost, /100 000 males, aged 75 years old"
+PLYLOSTE_ANNHOMTH,Diseases of the musculoskeletal system and connective tissue,"Years lost, /100 000 males, aged 75 years old"
+PLYLGENI_ANNHOMTH,Diseases of the genitourinary system,"Years lost, /100 000 males, aged 75 years old"
+PLYLAFFE_ANNHOMTH,Certain conditions originating in the perinatal period,"Years lost, /100 000 males, aged 75 years old"
+PLYLCONG_ANNHOMTH,Congenital malformations and chromosomal abnormalities,"Years lost, /100 000 males, aged 75 years old"
+PLYLSYMP_ANNHOMTH,"Symptoms, signs, ill-defined causes","Years lost, /100 000 males, aged 75 years old"
+PLYLEXTC_ANNHOMTH,External causes of mortality,"Years lost, /100 000 males, aged 75 years old"
+PLYLTRAC_ANNHOMTH,Transport Accidents,"Years lost, /100 000 males, aged 75 years old"
+PLYLCHUT_ANNHOMTH,Accidental falls,"Years lost, /100 000 males, aged 75 years old"
+PLYLHARM_ANNHOMTH,Intentional self-harm,"Years lost, /100 000 males, aged 75 years old"
+PLYLHOCD_ANNHOMTH,Assault,"Years lost, /100 000 males, aged 75 years old"
+PLYLTBLS_ANNHOMTH,Tuberculosis,"Years lost, /100 000 males, aged 75 years old"
+PLYLNEOP_ANNHOMTH,Neoplasms,"Years lost, /100 000 males, aged 75 years old"
+PLYLSTOM_ANNHOMTH,Malignant neoplasms of stomach,"Years lost, /100 000 males, aged 75 years old"
+PLYLPANC_ANNHOMTH,Malignant neoplasms of pancreas,"Years lost, /100 000 males, aged 75 years old"
+PLYLLIVR_ANNHOMTH,Malignant neoplasms of liver,"Years lost, /100 000 males, aged 75 years old"
+PLYLHODG_ANNHOMTH,Hodgkin’s disease,"Years lost, /100 000 males, aged 75 years old"
+PLYLLEUK_ANNHOMTH,Leukemia,"Years lost, /100 000 males, aged 75 years old"
+PLYLBLAD_ANNHOMTH,Malignant neoplasms of bladder,"Years lost, /100 000 males, aged 75 years old"
+PLYLSKIN_ANNHOMTH,Malignant melanoma of skin,"Years lost, /100 000 males, aged 75 years old"
+PLYLDMTA_ANNHOMTH,Dementia,"Years lost, /100 000 males, aged 75 years old"
+PLYLPARK_ANNHOMTH,Parkinson's disease,"Years lost, /100 000 males, aged 75 years old"
+PLYLALZH_ANNHOMTH,Alzheimer's disease,"Years lost, /100 000 males, aged 75 years old"
+PLYLPNEU_ANNHOMTH,Pneumonia,"Years lost, /100 000 males, aged 75 years old"
+PLYLASMA_ANNHOMTH,Asthma,"Years lost, /100 000 males, aged 75 years old"
+PLYLPEPT_ANNHOMTH,Peptic ulcer,"Years lost, /100 000 males, aged 75 years old"
+PLYLACCD_ANNHOMTH,Accidents,"Years lost, /100 000 males, aged 75 years old"
+PLYLPOSN_ANNHOMTH,Accidental poisoning,"Years lost, /100 000 males, aged 75 years old"
+PLYLALLC_ANNFEMTF,All causes of death,"Years lost, /100 000 females, aged 75 years old"
+PLYLINFE_ANNFEMTF,Certain infectious and parasitic diseases,"Years lost, /100 000 females, aged 75 years old"
+PLYLHIVD_ANNFEMTF,HIV-AIDS,"Years lost, /100 000 females, aged 75 years old"
+PLYLTUME_ANNFEMTF,Malignant neoplasms,"Years lost, /100 000 females, aged 75 years old"
+PLYLNCRA_ANNFEMTF,"Malignant neoplasms of colon, rectum and anus","Years lost, /100 000 females, aged 75 years old"
+PLYLCANC_ANNFEMTF,"Malignant neoplasms of trachea, bronchus, lung","Years lost, /100 000 females, aged 75 years old"
 PLYLMNBR,Malignant neoplasms of female breast,"Years lost, /100 000 females, aged 75 years old"
 PLYLCRVX,Malignant neoplasms of cervix uteri,"Years lost, /100 000 females, aged 75 years old"
-PLYLSANG,Diseases of the blood and blood-forming organs,"Years lost, /100 000 females, aged 75 years old"
-PLYLENDO,"Endocrine, nutritional and metabolic diseases","Years lost, /100 000 females, aged 75 years old"
-PLYLDBTM,Diabetes mellitus,"Years lost, /100 000 females, aged 75 years old"
-PLYLTROU,Mental and behavioural disorders,"Years lost, /100 000 females, aged 75 years old"
-PLYLNERV,Diseases of the nervous system,"Years lost, /100 000 females, aged 75 years old"
-PLYLCIRC,Diseases of the circulatory system,"Years lost, /100 000 females, aged 75 years old"
-PLYLISCH,Ischaemic heart diseases,"Years lost, /100 000 females, aged 75 years old"
-PLYLMYOC,Acute myocardial infarction,"Years lost, /100 000 females, aged 75 years old"
-PLYLCERV,Cerebrovascular diseases,"Years lost, /100 000 females, aged 75 years old"
-PLYLREPS,Diseases of the respiratory system,"Years lost, /100 000 females, aged 75 years old"
-PLYLINPN,Influenza,"Years lost, /100 000 females, aged 75 years old"
-PLYLBAEM,Chronic obstructive pulmonary diseases,"Years lost, /100 000 females, aged 75 years old"
-PLYLDIGE,Diseases of the digestive system,"Years lost, /100 000 females, aged 75 years old"
-PLYLCIRR,Chronic liver diseases and cirrhosis,"Years lost, /100 000 females, aged 75 years old"
-PLYLPEAU,Diseases of the skin and subcutaneous tissue,"Years lost, /100 000 females, aged 75 years old"
-PLYLOSTE,Diseases of the musculoskeletal system and connective tissue,"Years lost, /100 000 females, aged 75 years old"
-PLYLGENI,Diseases of the genitourinary system,"Years lost, /100 000 females, aged 75 years old"
+PLYLSANG_ANNFEMTF,Diseases of the blood and blood-forming organs,"Years lost, /100 000 females, aged 75 years old"
+PLYLENDO_ANNFEMTF,"Endocrine, nutritional and metabolic diseases","Years lost, /100 000 females, aged 75 years old"
+PLYLDBTM_ANNFEMTF,Diabetes mellitus,"Years lost, /100 000 females, aged 75 years old"
+PLYLTROU_ANNFEMTF,Mental and behavioural disorders,"Years lost, /100 000 females, aged 75 years old"
+PLYLNERV_ANNFEMTF,Diseases of the nervous system,"Years lost, /100 000 females, aged 75 years old"
+PLYLCIRC_ANNFEMTF,Diseases of the circulatory system,"Years lost, /100 000 females, aged 75 years old"
+PLYLISCH_ANNFEMTF,Ischaemic heart diseases,"Years lost, /100 000 females, aged 75 years old"
+PLYLMYOC_ANNFEMTF,Acute myocardial infarction,"Years lost, /100 000 females, aged 75 years old"
+PLYLCERV_ANNFEMTF,Cerebrovascular diseases,"Years lost, /100 000 females, aged 75 years old"
+PLYLREPS_ANNFEMTF,Diseases of the respiratory system,"Years lost, /100 000 females, aged 75 years old"
+PLYLINPN_ANNFEMTF,Influenza,"Years lost, /100 000 females, aged 75 years old"
+PLYLBAEM_ANNFEMTF,Chronic obstructive pulmonary diseases,"Years lost, /100 000 females, aged 75 years old"
+PLYLDIGE_ANNFEMTF,Diseases of the digestive system,"Years lost, /100 000 females, aged 75 years old"
+PLYLCIRR_ANNFEMTF,Chronic liver diseases and cirrhosis,"Years lost, /100 000 females, aged 75 years old"
+PLYLPEAU_ANNFEMTF,Diseases of the skin and subcutaneous tissue,"Years lost, /100 000 females, aged 75 years old"
+PLYLOSTE_ANNFEMTF,Diseases of the musculoskeletal system and connective tissue,"Years lost, /100 000 females, aged 75 years old"
+PLYLGENI_ANNFEMTF,Diseases of the genitourinary system,"Years lost, /100 000 females, aged 75 years old"
 PLYLGROS,"Complications of pregnancy, childbirth and the puerperium","Years lost, /100 000 females, aged 75 years old"
-PLYLAFFE,Certain conditions originating in the perinatal period,"Years lost, /100 000 females, aged 75 years old"
-PLYLCONG,Congenital malformations and chromosomal abnormalities,"Years lost, /100 000 females, aged 75 years old"
-PLYLSYMP,"Symptoms, signs, ill-defined causes","Years lost, /100 000 females, aged 75 years old"
-PLYLEXTC,External causes of mortality,"Years lost, /100 000 females, aged 75 years old"
-PLYLTRAC,Transport Accidents,"Years lost, /100 000 females, aged 75 years old"
-PLYLCHUT,Accidental falls,"Years lost, /100 000 females, aged 75 years old"
-PLYLHARM,Intentional self-harm,"Years lost, /100 000 females, aged 75 years old"
-PLYLHOCD,Assault,"Years lost, /100 000 females, aged 75 years old"
-PLYLTBLS,Tuberculosis,"Years lost, /100 000 females, aged 75 years old"
-PLYLNEOP,Neoplasms,"Years lost, /100 000 females, aged 75 years old"
-PLYLSTOM,Malignant neoplasms of stomach,"Years lost, /100 000 females, aged 75 years old"
-PLYLPANC,Malignant neoplasms of pancreas,"Years lost, /100 000 females, aged 75 years old"
-PLYLLIVR,Malignant neoplasms of liver,"Years lost, /100 000 females, aged 75 years old"
+PLYLAFFE_ANNFEMTF,Certain conditions originating in the perinatal period,"Years lost, /100 000 females, aged 75 years old"
+PLYLCONG_ANNFEMTF,Congenital malformations and chromosomal abnormalities,"Years lost, /100 000 females, aged 75 years old"
+PLYLSYMP_ANNFEMTF,"Symptoms, signs, ill-defined causes","Years lost, /100 000 females, aged 75 years old"
+PLYLEXTC_ANNFEMTF,External causes of mortality,"Years lost, /100 000 females, aged 75 years old"
+PLYLTRAC_ANNFEMTF,Transport Accidents,"Years lost, /100 000 females, aged 75 years old"
+PLYLCHUT_ANNFEMTF,Accidental falls,"Years lost, /100 000 females, aged 75 years old"
+PLYLHARM_ANNFEMTF,Intentional self-harm,"Years lost, /100 000 females, aged 75 years old"
+PLYLHOCD_ANNFEMTF,Assault,"Years lost, /100 000 females, aged 75 years old"
+PLYLTBLS_ANNFEMTF,Tuberculosis,"Years lost, /100 000 females, aged 75 years old"
+PLYLNEOP_ANNFEMTF,Neoplasms,"Years lost, /100 000 females, aged 75 years old"
+PLYLSTOM_ANNFEMTF,Malignant neoplasms of stomach,"Years lost, /100 000 females, aged 75 years old"
+PLYLPANC_ANNFEMTF,Malignant neoplasms of pancreas,"Years lost, /100 000 females, aged 75 years old"
+PLYLLIVR_ANNFEMTF,Malignant neoplasms of liver,"Years lost, /100 000 females, aged 75 years old"
 PLYLOVRY,Malignant neoplasms of ovary,"Years lost, /100 000 females, aged 75 years old"
-PLYLHODG,Hodgkin’s disease,"Years lost, /100 000 females, aged 75 years old"
-PLYLLEUK,Leukemia,"Years lost, /100 000 females, aged 75 years old"
-PLYLBLAD,Malignant neoplasms of bladder,"Years lost, /100 000 females, aged 75 years old"
-PLYLSKIN,Malignant melanoma of skin,"Years lost, /100 000 females, aged 75 years old"
-PLYLDMTA,Dementia,"Years lost, /100 000 females, aged 75 years old"
-PLYLPARK,Parkinson's disease,"Years lost, /100 000 females, aged 75 years old"
-PLYLALZH,Alzheimer's disease,"Years lost, /100 000 females, aged 75 years old"
-PLYLPNEU,Pneumonia,"Years lost, /100 000 females, aged 75 years old"
-PLYLASMA,Asthma,"Years lost, /100 000 females, aged 75 years old"
-PLYLPEPT,Peptic ulcer,"Years lost, /100 000 females, aged 75 years old"
-PLYLACCD,Accidents,"Years lost, /100 000 females, aged 75 years old"
-PLYLPOSN,Accidental poisoning,"Years lost, /100 000 females, aged 75 years old"
+PLYLHODG_ANNFEMTF,Hodgkin’s disease,"Years lost, /100 000 females, aged 75 years old"
+PLYLLEUK_ANNFEMTF,Leukemia,"Years lost, /100 000 females, aged 75 years old"
+PLYLBLAD_ANNFEMTF,Malignant neoplasms of bladder,"Years lost, /100 000 females, aged 75 years old"
+PLYLSKIN_ANNFEMTF,Malignant melanoma of skin,"Years lost, /100 000 females, aged 75 years old"
+PLYLDMTA_ANNFEMTF,Dementia,"Years lost, /100 000 females, aged 75 years old"
+PLYLPARK_ANNFEMTF,Parkinson's disease,"Years lost, /100 000 females, aged 75 years old"
+PLYLALZH_ANNFEMTF,Alzheimer's disease,"Years lost, /100 000 females, aged 75 years old"
+PLYLPNEU_ANNFEMTF,Pneumonia,"Years lost, /100 000 females, aged 75 years old"
+PLYLASMA_ANNFEMTF,Asthma,"Years lost, /100 000 females, aged 75 years old"
+PLYLPEPT_ANNFEMTF,Peptic ulcer,"Years lost, /100 000 females, aged 75 years old"
+PLYLACCD_ANNFEMTF,Accidents,"Years lost, /100 000 females, aged 75 years old"
+PLYLPOSN_ANNFEMTF,Accidental poisoning,"Years lost, /100 000 females, aged 75 years old"
 DISASRAB,Self-reported absence from work due to illness,Number of days lost per person per year
 DISACPAB,Compensated absence from work due to illness,Number of days lost per person per year
-EVIEFE00,Females at birth,Years
-EVIEFE40,Females at age 40,Years
-EVIEFE60,Females at age 60,Years
-EVIEFE65,Females at age 65,Years
-EVIEFE80,Females at age 80,Years
-EVIEHO00,Males at birth,Years
-EVIEHO40,Males at age 40,Years
-EVIEHO60,Males at age 60,Years
-EVIEHO65,Males at age 65,Years
-EVIEHO80,Males at age 80,Years
+EVIEFE00_EVIDUREV,Females at birth,Years
+EVIEFE40_EVIDUREV,Females at age 40,Years
+EVIEFE60_EVIDUREV,Females at age 60,Years
+EVIEFE65_EVIDUREV,Females at age 65,Years
+EVIEFE80_EVIDUREV,Females at age 80,Years
+EVIEHO00_EVIDUREV,Males at birth,Years
+EVIEHO40_EVIDUREV,Males at age 40,Years
+EVIEHO60_EVIDUREV,Males at age 60,Years
+EVIEHO65_EVIDUREV,Males at age 65,Years
+EVIEHO80_EVIDUREV,Males at age 80,Years
 EVIETOTA,Total population at birth,Years
 MATIINFA,"Infant mortality, No minimum threshold of gestation period or birthweight",Deaths per 1 000 live births
 MATINEON,"Neonatal mortality, No minimum threshold of gestation period or birthweight",Deaths per 1 000 live births
-COMDAIDS,Acquired immunodeficiency syndrome (AIDS),Incidence per 100 000 population
+COMDAIDS_NEWCASTX,Acquired immunodeficiency syndrome (AIDS),Incidence per 100 000 population
 COMDIPER,Incidence of pertussis,Incidence per 100 000 population
 COMDIMEA,Incidence of measles,Incidence per 100 000 population
 COMDIHPB,Incidence of hepatitis B,Incidence per 100 000 population
-CANCTOCA,Malignant neoplasms,Incidence per 100 000 population
-CANCCOLC,Malignant neoplasms of colon,Incidence per 100 000 population
-CANCLUNC,Malignant neoplasms of lung,Incidence per 100 000 population
-PLYLALLC,All causes of death,"Years lost, /100 000 population, aged 75 years old"
-PLYLINFE,Certain infectious and parasitic diseases,"Years lost, /100 000 population, aged 75 years old"
-PLYLHIVD,HIV-AIDS,"Years lost, /100 000 population, aged 75 years old"
-PLYLTUME,Malignant neoplasms,"Years lost, /100 000 population, aged 75 years old"
-PLYLNCRA,"Malignant neoplasms of colon, rectum and anus","Years lost, /100 000 population, aged 75 years old"
-PLYLCANC,"Malignant neoplasms of trachea, bronchus, lung","Years lost, /100 000 population, aged 75 years old"
-PLYLSANG,Diseases of the blood and blood-forming organs,"Years lost, /100 000 population, aged 75 years old"
-PLYLENDO,"Endocrine, nutritional and metabolic diseases","Years lost, /100 000 population, aged 75 years old"
-PLYLDBTM,Diabetes mellitus,"Years lost, /100 000 population, aged 75 years old"
-PLYLTROU,Mental and behavioural disorders,"Years lost, /100 000 population, aged 75 years old"
-PLYLNERV,Diseases of the nervous system,"Years lost, /100 000 population, aged 75 years old"
-PLYLCIRC,Diseases of the circulatory system,"Years lost, /100 000 population, aged 75 years old"
-PLYLISCH,Ischaemic heart diseases,"Years lost, /100 000 population, aged 75 years old"
-PLYLMYOC,Acute myocardial infarction,"Years lost, /100 000 population, aged 75 years old"
-PLYLCERV,Cerebrovascular diseases,"Years lost, /100 000 population, aged 75 years old"
-PLYLREPS,Diseases of the respiratory system,"Years lost, /100 000 population, aged 75 years old"
-PLYLINPN,Influenza,"Years lost, /100 000 population, aged 75 years old"
-PLYLBAEM,Chronic obstructive pulmonary diseases,"Years lost, /100 000 population, aged 75 years old"
-PLYLDIGE,Diseases of the digestive system,"Years lost, /100 000 population, aged 75 years old"
-PLYLCIRR,Chronic liver diseases and cirrhosis,"Years lost, /100 000 population, aged 75 years old"
-PLYLPEAU,Diseases of the skin and subcutaneous tissue,"Years lost, /100 000 population, aged 75 years old"
-PLYLOSTE,Diseases of the musculoskeletal system and connective tissue,"Years lost, /100 000 population, aged 75 years old"
-PLYLGENI,Diseases of the genitourinary system,"Years lost, /100 000 population, aged 75 years old"
-PLYLAFFE,Certain conditions originating in the perinatal period,"Years lost, /100 000 population, aged 75 years old"
-PLYLCONG,Congenital malformations and chromosomal abnormalities,"Years lost, /100 000 population, aged 75 years old"
-PLYLSYMP,"Symptoms, signs, ill-defined causes","Years lost, /100 000 population, aged 75 years old"
-PLYLEXTC,External causes of mortality,"Years lost, /100 000 population, aged 75 years old"
-PLYLTRAC,Transport Accidents,"Years lost, /100 000 population, aged 75 years old"
-PLYLCHUT,Accidental falls,"Years lost, /100 000 population, aged 75 years old"
-PLYLHARM,Intentional self-harm,"Years lost, /100 000 population, aged 75 years old"
-PLYLHOCD,Assault,"Years lost, /100 000 population, aged 75 years old"
-PLYLTBLS,Tuberculosis,"Years lost, /100 000 population, aged 75 years old"
-PLYLNEOP,Neoplasms,"Years lost, /100 000 population, aged 75 years old"
-PLYLSTOM,Malignant neoplasms of stomach,"Years lost, /100 000 population, aged 75 years old"
-PLYLPANC,Malignant neoplasms of pancreas,"Years lost, /100 000 population, aged 75 years old"
-PLYLLIVR,Malignant neoplasms of liver,"Years lost, /100 000 population, aged 75 years old"
-PLYLHODG,Hodgkin’s disease,"Years lost, /100 000 population, aged 75 years old"
-PLYLLEUK,Leukemia,"Years lost, /100 000 population, aged 75 years old"
-PLYLBLAD,Malignant neoplasms of bladder,"Years lost, /100 000 population, aged 75 years old"
-PLYLSKIN,Malignant melanoma of skin,"Years lost, /100 000 population, aged 75 years old"
-PLYLDMTA,Dementia,"Years lost, /100 000 population, aged 75 years old"
-PLYLPARK,Parkinson's disease,"Years lost, /100 000 population, aged 75 years old"
-PLYLALZH,Alzheimer's disease,"Years lost, /100 000 population, aged 75 years old"
-PLYLPNEU,Pneumonia,"Years lost, /100 000 population, aged 75 years old"
-PLYLASMA,Asthma,"Years lost, /100 000 population, aged 75 years old"
-PLYLPEPT,Peptic ulcer,"Years lost, /100 000 population, aged 75 years old"
-PLYLACCD,Accidents,"Years lost, /100 000 population, aged 75 years old"
-PLYLPOSN,Accidental poisoning,"Years lost, /100 000 population, aged 75 years old"
+CANCTOCA_PERCMTTX,Malignant neoplasms,Incidence per 100 000 population
+CANCCOLC_PERCMTTX,Malignant neoplasms of colon,Incidence per 100 000 population
+CANCLUNC_PERCMTTX,Malignant neoplasms of lung,Incidence per 100 000 population
+PLYLALLC_ANNTOTTX,All causes of death,"Years lost, /100 000 population, aged 75 years old"
+PLYLINFE_ANNTOTTX,Certain infectious and parasitic diseases,"Years lost, /100 000 population, aged 75 years old"
+PLYLHIVD_ANNTOTTX,HIV-AIDS,"Years lost, /100 000 population, aged 75 years old"
+PLYLTUME_ANNTOTTX,Malignant neoplasms,"Years lost, /100 000 population, aged 75 years old"
+PLYLNCRA_ANNTOTTX,"Malignant neoplasms of colon, rectum and anus","Years lost, /100 000 population, aged 75 years old"
+PLYLCANC_ANNTOTTX,"Malignant neoplasms of trachea, bronchus, lung","Years lost, /100 000 population, aged 75 years old"
+PLYLSANG_ANNTOTTX,Diseases of the blood and blood-forming organs,"Years lost, /100 000 population, aged 75 years old"
+PLYLENDO_ANNTOTTX,"Endocrine, nutritional and metabolic diseases","Years lost, /100 000 population, aged 75 years old"
+PLYLDBTM_ANNTOTTX,Diabetes mellitus,"Years lost, /100 000 population, aged 75 years old"
+PLYLTROU_ANNTOTTX,Mental and behavioural disorders,"Years lost, /100 000 population, aged 75 years old"
+PLYLNERV_ANNTOTTX,Diseases of the nervous system,"Years lost, /100 000 population, aged 75 years old"
+PLYLCIRC_ANNTOTTX,Diseases of the circulatory system,"Years lost, /100 000 population, aged 75 years old"
+PLYLISCH_ANNTOTTX,Ischaemic heart diseases,"Years lost, /100 000 population, aged 75 years old"
+PLYLMYOC_ANNTOTTX,Acute myocardial infarction,"Years lost, /100 000 population, aged 75 years old"
+PLYLCERV_ANNTOTTX,Cerebrovascular diseases,"Years lost, /100 000 population, aged 75 years old"
+PLYLREPS_ANNTOTTX,Diseases of the respiratory system,"Years lost, /100 000 population, aged 75 years old"
+PLYLINPN_ANNTOTTX,Influenza,"Years lost, /100 000 population, aged 75 years old"
+PLYLBAEM_ANNTOTTX,Chronic obstructive pulmonary diseases,"Years lost, /100 000 population, aged 75 years old"
+PLYLDIGE_ANNTOTTX,Diseases of the digestive system,"Years lost, /100 000 population, aged 75 years old"
+PLYLCIRR_ANNTOTTX,Chronic liver diseases and cirrhosis,"Years lost, /100 000 population, aged 75 years old"
+PLYLPEAU_ANNTOTTX,Diseases of the skin and subcutaneous tissue,"Years lost, /100 000 population, aged 75 years old"
+PLYLOSTE_ANNTOTTX,Diseases of the musculoskeletal system and connective tissue,"Years lost, /100 000 population, aged 75 years old"
+PLYLGENI_ANNTOTTX,Diseases of the genitourinary system,"Years lost, /100 000 population, aged 75 years old"
+PLYLAFFE_ANNTOTTX,Certain conditions originating in the perinatal period,"Years lost, /100 000 population, aged 75 years old"
+PLYLCONG_ANNTOTTX,Congenital malformations and chromosomal abnormalities,"Years lost, /100 000 population, aged 75 years old"
+PLYLSYMP_ANNTOTTX,"Symptoms, signs, ill-defined causes","Years lost, /100 000 population, aged 75 years old"
+PLYLEXTC_ANNTOTTX,External causes of mortality,"Years lost, /100 000 population, aged 75 years old"
+PLYLTRAC_ANNTOTTX,Transport Accidents,"Years lost, /100 000 population, aged 75 years old"
+PLYLCHUT_ANNTOTTX,Accidental falls,"Years lost, /100 000 population, aged 75 years old"
+PLYLHARM_ANNTOTTX,Intentional self-harm,"Years lost, /100 000 population, aged 75 years old"
+PLYLHOCD_ANNTOTTX,Assault,"Years lost, /100 000 population, aged 75 years old"
+PLYLTBLS_ANNTOTTX,Tuberculosis,"Years lost, /100 000 population, aged 75 years old"
+PLYLNEOP_ANNTOTTX,Neoplasms,"Years lost, /100 000 population, aged 75 years old"
+PLYLSTOM_ANNTOTTX,Malignant neoplasms of stomach,"Years lost, /100 000 population, aged 75 years old"
+PLYLPANC_ANNTOTTX,Malignant neoplasms of pancreas,"Years lost, /100 000 population, aged 75 years old"
+PLYLLIVR_ANNTOTTX,Malignant neoplasms of liver,"Years lost, /100 000 population, aged 75 years old"
+PLYLHODG_ANNTOTTX,Hodgkin’s disease,"Years lost, /100 000 population, aged 75 years old"
+PLYLLEUK_ANNTOTTX,Leukemia,"Years lost, /100 000 population, aged 75 years old"
+PLYLBLAD_ANNTOTTX,Malignant neoplasms of bladder,"Years lost, /100 000 population, aged 75 years old"
+PLYLSKIN_ANNTOTTX,Malignant melanoma of skin,"Years lost, /100 000 population, aged 75 years old"
+PLYLDMTA_ANNTOTTX,Dementia,"Years lost, /100 000 population, aged 75 years old"
+PLYLPARK_ANNTOTTX,Parkinson's disease,"Years lost, /100 000 population, aged 75 years old"
+PLYLALZH_ANNTOTTX,Alzheimer's disease,"Years lost, /100 000 population, aged 75 years old"
+PLYLPNEU_ANNTOTTX,Pneumonia,"Years lost, /100 000 population, aged 75 years old"
+PLYLASMA_ANNTOTTX,Asthma,"Years lost, /100 000 population, aged 75 years old"
+PLYLPEPT_ANNTOTTX,Peptic ulcer,"Years lost, /100 000 population, aged 75 years old"
+PLYLACCD_ANNTOTTX,Accidents,"Years lost, /100 000 population, aged 75 years old"
+PLYLPOSN_ANNTOTTX,Accidental poisoning,"Years lost, /100 000 population, aged 75 years old"
 INFAPREM,Low birthweight,% of total live births
 MATIMATM,Maternal mortality,Deaths per 100 000 live births
-CANCTOCA,Malignant neoplasms,Incidence per 100 000 females
-CANCCOLC,Malignant neoplasms of colon,Incidence per 100 000 females
-CANCLUNC,Malignant neoplasms of lung,Incidence per 100 000 females
+CANCTOCA_INCITFTF,Malignant neoplasms,Incidence per 100 000 females
+CANCCOLC_INCITFTF,Malignant neoplasms of colon,Incidence per 100 000 females
+CANCLUNC_INCITFTF,Malignant neoplasms of lung,Incidence per 100 000 females
 CANCBREC,Malignant neoplasms of female breast,Incidence per 100 000 females
 CANCCEIX,Malignant neoplasms of cervix,Incidence per 100 000 females
-CANCTOCA,Malignant neoplasms,Incidence per 100 000 males
-CANCCOLC,Malignant neoplasms of colon,Incidence per 100 000 males
-CANCLUNC,Malignant neoplasms of lung,Incidence per 100 000 males
+CANCTOCA_INCITHTH,Malignant neoplasms,Incidence per 100 000 males
+CANCCOLC_INCITHTH,Malignant neoplasms of colon,Incidence per 100 000 males
+CANCLUNC_INCITHTH,Malignant neoplasms of lung,Incidence per 100 000 males
 CANCPROC,Malignant neoplasms of prostate,Incidence per 100 000 males
 MATIPERI,Perinatal mortality,Deaths per 1 000 total births
-CICDALLC,All causes of death,Number of female deaths
-CICDINFE,Certain infectious and parasitic diseases,Number of female deaths
-CICDHIVD,HIV-AIDS,Number of female deaths
-CICDTUME,Malignant neoplasms,Number of female deaths
-CICDNCRA,"Malignant neoplasms of colon, rectum and anus",Number of female deaths
-CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",Number of female deaths
-CICDMNBR,Malignant neoplasms of female breast,Number of female deaths
-CICDCRVX,Malignant neoplasms of cervix uteri,Number of female deaths
-CICDSANG,Diseases of the blood and blood-forming organs,Number of female deaths
-CICDENDO,"Endocrine, nutritional and metabolic diseases",Number of female deaths
-CICDDBTM,Diabetes mellitus,Number of female deaths
-CICDTROU,Mental and behavioural disorders,Number of female deaths
-CICDNERV,Diseases of the nervous system,Number of female deaths
-CICDCIRC,Diseases of the circulatory system,Number of female deaths
-CICDISCH,Ischaemic heart diseases,Number of female deaths
-CICDMYOC,Acute myocardial infarction,Number of female deaths
-CICDCERV,Cerebrovascular diseases,Number of female deaths
-CICDREPS,Diseases of the respiratory system,Number of female deaths
-CICDINPN,Influenza,Number of female deaths
-CICDBAEM,Chronic obstructive pulmonary diseases,Number of female deaths
-CICDDIGE,Diseases of the digestive system,Number of female deaths
-CICDCIRR,Chronic liver diseases and cirrhosis,Number of female deaths
-CICDPEAU,Diseases of the skin and subcutaneous tissue,Number of female deaths
-CICDOSTE,Diseases of the musculoskeletal system and connective tissue,Number of female deaths
-CICDGENI,Diseases of the genitourinary system,Number of female deaths
-CICDGROS,"Pregnancy, childbirth and the puerperium",Number of female deaths
-CICDAFFE,Certain conditions originating in the perinatal period,Number of female deaths
-CICDCONG,"Congenital malformations, deformations and chromosomal abnormalities",Number of female deaths
-CICDSYMP,"Symptoms, signs, ill-defined causes",Number of female deaths
-CICDEXTC,External causes of mortality,Number of female deaths
-CICDTRAC,Transport Accidents,Number of female deaths
-CICDCHUT,Accidental falls,Number of female deaths
-CICDHARM,Intentional self-harm,Number of female deaths
-CICDHOCD,Assault,Number of female deaths
-CICDTBLS,Tuberculosis,Number of female deaths
-CICDNEOP,Neoplasms,Number of female deaths
-CICDSTOM,Malignant neoplasms of stomach,Number of female deaths
-CICDPANC,Malignant neoplasms of pancreas,Number of female deaths
-CICDLIVR,Malignant neoplasms of liver,Number of female deaths
-CICDOVRY,Malignant neoplasms of ovary,Number of female deaths
-CICDHODG,Hodgkin’s disease,Number of female deaths
-CICDLEUK,Leukemia,Number of female deaths
-CICDBLAD,Malignant neoplasms of bladder,Number of female deaths
-CICDSKIN,Malignant melanoma of skin,Number of female deaths
-CICDDMTA,Dementia,Number of female deaths
-CICDPARK,Parkinson's disease,Number of female deaths
-CICDALZH,Alzheimer's disease,Number of female deaths
-CICDPNEU,Pneumonia,Number of female deaths
-CICDASMA,Asthma,Number of female deaths
-CICDPEPT,Peptic ulcer,Number of female deaths
-CICDACCD,Accidents,Number of female deaths
-CICDPOSN,Accidental poisoning,Number of female deaths
-CICDALLC,All causes of death,Number of male deaths
-CICDINFE,Certain infectious and parasitic diseases,Number of male deaths
-CICDHIVD,HIV-AIDS,Number of male deaths
-CICDTUME,Malignant neoplasms,Number of male deaths
-CICDNCRA,"Malignant neoplasms of colon, rectum and anus",Number of male deaths
-CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",Number of male deaths
-CICDMNPR,Malignant neoplasms of prostate,Number of male deaths
-CICDSANG,Diseases of the blood and blood-forming organs,Number of male deaths
-CICDENDO,"Endocrine, nutritional and metabolic diseases",Number of male deaths
-CICDDBTM,Diabetes mellitus,Number of male deaths
-CICDTROU,Mental and behavioural disorders,Number of male deaths
-CICDNERV,Diseases of the nervous system,Number of male deaths
-CICDCIRC,Diseases of the circulatory system,Number of male deaths
-CICDISCH,Ischaemic heart diseases,Number of male deaths
-CICDMYOC,Acute myocardial infarction,Number of male deaths
-CICDCERV,Cerebrovascular diseases,Number of male deaths
-CICDREPS,Diseases of the respiratory system,Number of male deaths
-CICDINPN,Influenza,Number of male deaths
-CICDBAEM,Chronic obstructive pulmonary diseases,Number of male deaths
-CICDDIGE,Diseases of the digestive system,Number of male deaths
-CICDCIRR,Chronic liver diseases and cirrhosis,Number of male deaths
-CICDPEAU,Diseases of the skin and subcutaneous tissue,Number of male deaths
-CICDOSTE,Diseases of the musculoskeletal system and connective tissue,Number of male deaths
-CICDGENI,Diseases of the genitourinary system,Number of male deaths
-CICDAFFE,Certain conditions originating in the perinatal period,Number of male deaths
-CICDCONG,"Congenital malformations, deformations and chromosomal abnormalities",Number of male deaths
-CICDSYMP,"Symptoms, signs, ill-defined causes",Number of male deaths
-CICDEXTC,External causes of mortality,Number of male deaths
-CICDTRAC,Transport Accidents,Number of male deaths
-CICDCHUT,Accidental falls,Number of male deaths
-CICDHARM,Intentional self-harm,Number of male deaths
-CICDHOCD,Assault,Number of male deaths
-CICDTBLS,Tuberculosis,Number of male deaths
-CICDNEOP,Neoplasms,Number of male deaths
-CICDSTOM,Malignant neoplasms of stomach,Number of male deaths
-CICDPANC,Malignant neoplasms of pancreas,Number of male deaths
-CICDLIVR,Malignant neoplasms of liver,Number of male deaths
-CICDHODG,Hodgkin’s disease,Number of male deaths
-CICDLEUK,Leukemia,Number of male deaths
-CICDBLAD,Malignant neoplasms of bladder,Number of male deaths
-CICDSKIN,Malignant melanoma of skin,Number of male deaths
-CICDDMTA,Dementia,Number of male deaths
-CICDPARK,Parkinson's disease,Number of male deaths
-CICDALZH,Alzheimer's disease,Number of male deaths
-CICDPNEU,Pneumonia,Number of male deaths
-CICDASMA,Asthma,Number of male deaths
-CICDPEPT,Peptic ulcer,Number of male deaths
-CICDACCD,Accidents,Number of male deaths
-CICDPOSN,Accidental poisoning,Number of male deaths
-CICDALLC,All causes of death,Number of total deaths
-CICDINFE,Certain infectious and parasitic diseases,Number of total deaths
-CICDHIVD,HIV-AIDS,Number of total deaths
-CICDTUME,Malignant neoplasms,Number of total deaths
-CICDNCRA,"Malignant neoplasms of colon, rectum and anus",Number of total deaths
-CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",Number of total deaths
-CICDSANG,Diseases of the blood and blood-forming organs,Number of total deaths
-CICDENDO,"Endocrine, nutritional and metabolic diseases",Number of total deaths
-CICDDBTM,Diabetes mellitus,Number of total deaths
-CICDTROU,Mental and behavioural disorders,Number of total deaths
-CICDNERV,Diseases of the nervous system,Number of total deaths
-CICDCIRC,Diseases of the circulatory system,Number of total deaths
-CICDISCH,Ischaemic heart diseases,Number of total deaths
-CICDMYOC,Acute myocardial infarction,Number of total deaths
-CICDCERV,Cerebrovascular diseases,Number of total deaths
-CICDREPS,Diseases of the respiratory system,Number of total deaths
-CICDINPN,Influenza,Number of total deaths
-CICDBAEM,Chronic obstructive pulmonary diseases,Number of total deaths
-CICDDIGE,Diseases of the digestive system,Number of total deaths
-CICDCIRR,Chronic liver diseases and cirrhosis,Number of total deaths
-CICDPEAU,Diseases of the skin and subcutaneous tissue,Number of total deaths
-CICDOSTE,Diseases of the musculoskeletal system and connective tissue,Number of total deaths
-CICDGENI,Diseases of the genitourinary system,Number of total deaths
-CICDAFFE,Certain conditions originating in the perinatal period,Number of total deaths
-CICDCONG,"Congenital malformations, deformations and chromosomal abnormalities",Number of total deaths
-CICDSYMP,"Symptoms, signs, ill-defined causes",Number of total deaths
-CICDEXTC,External causes of mortality,Number of total deaths
-CICDTRAC,Transport Accidents,Number of total deaths
-CICDCHUT,Accidental falls,Number of total deaths
-CICDHARM,Intentional self-harm,Number of total deaths
-CICDHOCD,Assault,Number of total deaths
-CICDTBLS,Tuberculosis,Number of total deaths
-CICDNEOP,Neoplasms,Number of total deaths
-CICDSTOM,Malignant neoplasms of stomach,Number of total deaths
-CICDPANC,Malignant neoplasms of pancreas,Number of total deaths
-CICDLIVR,Malignant neoplasms of liver,Number of total deaths
-CICDHODG,Hodgkin’s disease,Number of total deaths
-CICDLEUK,Leukemia,Number of total deaths
-CICDBLAD,Malignant neoplasms of bladder,Number of total deaths
-CICDSKIN,Malignant melanoma of skin,Number of total deaths
-CICDDMTA,Dementia,Number of total deaths
-CICDPARK,Parkinson's disease,Number of total deaths
-CICDALZH,Alzheimer's disease,Number of total deaths
-CICDPNEU,Pneumonia,Number of total deaths
-CICDASMA,Asthma,Number of total deaths
-CICDPEPT,Peptic ulcer,Number of total deaths
-CICDACCD,Accidents,Number of total deaths
-CICDPOSN,Accidental poisoning,Number of total deaths
+CICDALLC_NBFEMEPF,All causes of death,Number of female deaths
+CICDINFE_NBFEMEPF,Certain infectious and parasitic diseases,Number of female deaths
+CICDHIVD_NBFEMEPF,HIV-AIDS,Number of female deaths
+CICDTUME_NBFEMEPF,Malignant neoplasms,Number of female deaths
+CICDNCRA_NBFEMEPF,"Malignant neoplasms of colon, rectum and anus",Number of female deaths
+CICDCANC_NBFEMEPF,"Malignant neoplasms of trachea, bronchus, lung",Number of female deaths
+CICDMNBR_NBFEMEPF,Malignant neoplasms of female breast,Number of female deaths
+CICDCRVX_NBFEMEPF,Malignant neoplasms of cervix uteri,Number of female deaths
+CICDSANG_NBFEMEPF,Diseases of the blood and blood-forming organs,Number of female deaths
+CICDENDO_NBFEMEPF,"Endocrine, nutritional and metabolic diseases",Number of female deaths
+CICDDBTM_NBFEMEPF,Diabetes mellitus,Number of female deaths
+CICDTROU_NBFEMEPF,Mental and behavioural disorders,Number of female deaths
+CICDNERV_NBFEMEPF,Diseases of the nervous system,Number of female deaths
+CICDCIRC_NBFEMEPF,Diseases of the circulatory system,Number of female deaths
+CICDISCH_NBFEMEPF,Ischaemic heart diseases,Number of female deaths
+CICDMYOC_NBFEMEPF,Acute myocardial infarction,Number of female deaths
+CICDCERV_NBFEMEPF,Cerebrovascular diseases,Number of female deaths
+CICDREPS_NBFEMEPF,Diseases of the respiratory system,Number of female deaths
+CICDINPN_NBFEMEPF,Influenza,Number of female deaths
+CICDBAEM_NBFEMEPF,Chronic obstructive pulmonary diseases,Number of female deaths
+CICDDIGE_NBFEMEPF,Diseases of the digestive system,Number of female deaths
+CICDCIRR_NBFEMEPF,Chronic liver diseases and cirrhosis,Number of female deaths
+CICDPEAU_NBFEMEPF,Diseases of the skin and subcutaneous tissue,Number of female deaths
+CICDOSTE_NBFEMEPF,Diseases of the musculoskeletal system and connective tissue,Number of female deaths
+CICDGENI_NBFEMEPF,Diseases of the genitourinary system,Number of female deaths
+CICDGROS_NBFEMEPF,"Pregnancy, childbirth and the puerperium",Number of female deaths
+CICDAFFE_NBFEMEPF,Certain conditions originating in the perinatal period,Number of female deaths
+CICDCONG_NBFEMEPF,"Congenital malformations, deformations and chromosomal abnormalities",Number of female deaths
+CICDSYMP_NBFEMEPF,"Symptoms, signs, ill-defined causes",Number of female deaths
+CICDEXTC_NBFEMEPF,External causes of mortality,Number of female deaths
+CICDTRAC_NBFEMEPF,Transport Accidents,Number of female deaths
+CICDCHUT_NBFEMEPF,Accidental falls,Number of female deaths
+CICDHARM_NBFEMEPF,Intentional self-harm,Number of female deaths
+CICDHOCD_NBFEMEPF,Assault,Number of female deaths
+CICDTBLS_NBFEMEPF,Tuberculosis,Number of female deaths
+CICDNEOP_NBFEMEPF,Neoplasms,Number of female deaths
+CICDSTOM_NBFEMEPF,Malignant neoplasms of stomach,Number of female deaths
+CICDPANC_NBFEMEPF,Malignant neoplasms of pancreas,Number of female deaths
+CICDLIVR_NBFEMEPF,Malignant neoplasms of liver,Number of female deaths
+CICDOVRY_NBFEMEPF,Malignant neoplasms of ovary,Number of female deaths
+CICDHODG_NBFEMEPF,Hodgkin’s disease,Number of female deaths
+CICDLEUK_NBFEMEPF,Leukemia,Number of female deaths
+CICDBLAD_NBFEMEPF,Malignant neoplasms of bladder,Number of female deaths
+CICDSKIN_NBFEMEPF,Malignant melanoma of skin,Number of female deaths
+CICDDMTA_NBFEMEPF,Dementia,Number of female deaths
+CICDPARK_NBFEMEPF,Parkinson's disease,Number of female deaths
+CICDALZH_NBFEMEPF,Alzheimer's disease,Number of female deaths
+CICDPNEU_NBFEMEPF,Pneumonia,Number of female deaths
+CICDASMA_NBFEMEPF,Asthma,Number of female deaths
+CICDPEPT_NBFEMEPF,Peptic ulcer,Number of female deaths
+CICDACCD_NBFEMEPF,Accidents,Number of female deaths
+CICDPOSN_NBFEMEPF,Accidental poisoning,Number of female deaths
+CICDALLC_NBMALEPH,All causes of death,Number of male deaths
+CICDINFE_NBMALEPH,Certain infectious and parasitic diseases,Number of male deaths
+CICDHIVD_NBMALEPH,HIV-AIDS,Number of male deaths
+CICDTUME_NBMALEPH,Malignant neoplasms,Number of male deaths
+CICDNCRA_NBMALEPH,"Malignant neoplasms of colon, rectum and anus",Number of male deaths
+CICDCANC_NBMALEPH,"Malignant neoplasms of trachea, bronchus, lung",Number of male deaths
+CICDMNPR_NBMALEPH,Malignant neoplasms of prostate,Number of male deaths
+CICDSANG_NBMALEPH,Diseases of the blood and blood-forming organs,Number of male deaths
+CICDENDO_NBMALEPH,"Endocrine, nutritional and metabolic diseases",Number of male deaths
+CICDDBTM_NBMALEPH,Diabetes mellitus,Number of male deaths
+CICDTROU_NBMALEPH,Mental and behavioural disorders,Number of male deaths
+CICDNERV_NBMALEPH,Diseases of the nervous system,Number of male deaths
+CICDCIRC_NBMALEPH,Diseases of the circulatory system,Number of male deaths
+CICDISCH_NBMALEPH,Ischaemic heart diseases,Number of male deaths
+CICDMYOC_NBMALEPH,Acute myocardial infarction,Number of male deaths
+CICDCERV_NBMALEPH,Cerebrovascular diseases,Number of male deaths
+CICDREPS_NBMALEPH,Diseases of the respiratory system,Number of male deaths
+CICDINPN_NBMALEPH,Influenza,Number of male deaths
+CICDBAEM_NBMALEPH,Chronic obstructive pulmonary diseases,Number of male deaths
+CICDDIGE_NBMALEPH,Diseases of the digestive system,Number of male deaths
+CICDCIRR_NBMALEPH,Chronic liver diseases and cirrhosis,Number of male deaths
+CICDPEAU_NBMALEPH,Diseases of the skin and subcutaneous tissue,Number of male deaths
+CICDOSTE_NBMALEPH,Diseases of the musculoskeletal system and connective tissue,Number of male deaths
+CICDGENI_NBMALEPH,Diseases of the genitourinary system,Number of male deaths
+CICDAFFE_NBMALEPH,Certain conditions originating in the perinatal period,Number of male deaths
+CICDCONG_NBMALEPH,"Congenital malformations, deformations and chromosomal abnormalities",Number of male deaths
+CICDSYMP_NBMALEPH,"Symptoms, signs, ill-defined causes",Number of male deaths
+CICDEXTC_NBMALEPH,External causes of mortality,Number of male deaths
+CICDTRAC_NBMALEPH,Transport Accidents,Number of male deaths
+CICDCHUT_NBMALEPH,Accidental falls,Number of male deaths
+CICDHARM_NBMALEPH,Intentional self-harm,Number of male deaths
+CICDHOCD_NBMALEPH,Assault,Number of male deaths
+CICDTBLS_NBMALEPH,Tuberculosis,Number of male deaths
+CICDNEOP_NBMALEPH,Neoplasms,Number of male deaths
+CICDSTOM_NBMALEPH,Malignant neoplasms of stomach,Number of male deaths
+CICDPANC_NBMALEPH,Malignant neoplasms of pancreas,Number of male deaths
+CICDLIVR_NBMALEPH,Malignant neoplasms of liver,Number of male deaths
+CICDHODG_NBMALEPH,Hodgkin’s disease,Number of male deaths
+CICDLEUK_NBMALEPH,Leukemia,Number of male deaths
+CICDBLAD_NBMALEPH,Malignant neoplasms of bladder,Number of male deaths
+CICDSKIN_NBMALEPH,Malignant melanoma of skin,Number of male deaths
+CICDDMTA_NBMALEPH,Dementia,Number of male deaths
+CICDPARK_NBMALEPH,Parkinson's disease,Number of male deaths
+CICDALZH_NBMALEPH,Alzheimer's disease,Number of male deaths
+CICDPNEU_NBMALEPH,Pneumonia,Number of male deaths
+CICDASMA_NBMALEPH,Asthma,Number of male deaths
+CICDPEPT_NBMALEPH,Peptic ulcer,Number of male deaths
+CICDACCD_NBMALEPH,Accidents,Number of male deaths
+CICDPOSN_NBMALEPH,Accidental poisoning,Number of male deaths
+CICDALLC_NBPOPUPC,All causes of death,Number of total deaths
+CICDINFE_NBPOPUPC,Certain infectious and parasitic diseases,Number of total deaths
+CICDHIVD_NBPOPUPC,HIV-AIDS,Number of total deaths
+CICDTUME_NBPOPUPC,Malignant neoplasms,Number of total deaths
+CICDNCRA_NBPOPUPC,"Malignant neoplasms of colon, rectum and anus",Number of total deaths
+CICDCANC_NBPOPUPC,"Malignant neoplasms of trachea, bronchus, lung",Number of total deaths
+CICDSANG_NBPOPUPC,Diseases of the blood and blood-forming organs,Number of total deaths
+CICDENDO_NBPOPUPC,"Endocrine, nutritional and metabolic diseases",Number of total deaths
+CICDDBTM_NBPOPUPC,Diabetes mellitus,Number of total deaths
+CICDTROU_NBPOPUPC,Mental and behavioural disorders,Number of total deaths
+CICDNERV_NBPOPUPC,Diseases of the nervous system,Number of total deaths
+CICDCIRC_NBPOPUPC,Diseases of the circulatory system,Number of total deaths
+CICDISCH_NBPOPUPC,Ischaemic heart diseases,Number of total deaths
+CICDMYOC_NBPOPUPC,Acute myocardial infarction,Number of total deaths
+CICDCERV_NBPOPUPC,Cerebrovascular diseases,Number of total deaths
+CICDREPS_NBPOPUPC,Diseases of the respiratory system,Number of total deaths
+CICDINPN_NBPOPUPC,Influenza,Number of total deaths
+CICDBAEM_NBPOPUPC,Chronic obstructive pulmonary diseases,Number of total deaths
+CICDDIGE_NBPOPUPC,Diseases of the digestive system,Number of total deaths
+CICDCIRR_NBPOPUPC,Chronic liver diseases and cirrhosis,Number of total deaths
+CICDPEAU_NBPOPUPC,Diseases of the skin and subcutaneous tissue,Number of total deaths
+CICDOSTE_NBPOPUPC,Diseases of the musculoskeletal system and connective tissue,Number of total deaths
+CICDGENI_NBPOPUPC,Diseases of the genitourinary system,Number of total deaths
+CICDAFFE_NBPOPUPC,Certain conditions originating in the perinatal period,Number of total deaths
+CICDCONG_NBPOPUPC,"Congenital malformations, deformations and chromosomal abnormalities",Number of total deaths
+CICDSYMP_NBPOPUPC,"Symptoms, signs, ill-defined causes",Number of total deaths
+CICDEXTC_NBPOPUPC,External causes of mortality,Number of total deaths
+CICDTRAC_NBPOPUPC,Transport Accidents,Number of total deaths
+CICDCHUT_NBPOPUPC,Accidental falls,Number of total deaths
+CICDHARM_NBPOPUPC,Intentional self-harm,Number of total deaths
+CICDHOCD_NBPOPUPC,Assault,Number of total deaths
+CICDTBLS_NBPOPUPC,Tuberculosis,Number of total deaths
+CICDNEOP_NBPOPUPC,Neoplasms,Number of total deaths
+CICDSTOM_NBPOPUPC,Malignant neoplasms of stomach,Number of total deaths
+CICDPANC_NBPOPUPC,Malignant neoplasms of pancreas,Number of total deaths
+CICDLIVR_NBPOPUPC,Malignant neoplasms of liver,Number of total deaths
+CICDHODG_NBPOPUPC,Hodgkin’s disease,Number of total deaths
+CICDLEUK_NBPOPUPC,Leukemia,Number of total deaths
+CICDBLAD_NBPOPUPC,Malignant neoplasms of bladder,Number of total deaths
+CICDSKIN_NBPOPUPC,Malignant melanoma of skin,Number of total deaths
+CICDDMTA_NBPOPUPC,Dementia,Number of total deaths
+CICDPARK_NBPOPUPC,Parkinson's disease,Number of total deaths
+CICDALZH_NBPOPUPC,Alzheimer's disease,Number of total deaths
+CICDPNEU_NBPOPUPC,Pneumonia,Number of total deaths
+CICDASMA_NBPOPUPC,Asthma,Number of total deaths
+CICDPEPT_NBPOPUPC,Peptic ulcer,Number of total deaths
+CICDACCD_NBPOPUPC,Accidents,Number of total deaths
+CICDPOSN_NBPOPUPC,Accidental poisoning,Number of total deaths
 SRHSFGHA,"Good/very good health, females aged 15-24",% of population (crude rate)
 SRHSFGHB,Good/very good health females aged 25-44,% of population (crude rate)
 SRHSFGHC,Good/very good health females aged 45-64,% of population (crude rate)
@@ -953,17 +953,17 @@ SRHSTGHB,"Good/very good health, total aged 25-44",% of population (crude rate)
 SRHSTGHC,"Good/very good health, total aged 45-64",% of population (crude rate)
 SRHSTGHD,"Good/very good health, total aged 65+",% of population (crude rate)
 SRHSTGHE,"Good/very good health, total aged 15+",% of population (crude rate)
-EVIEFE00,Females at birth,Difference female-male (years)
-EVIEFE40,Females at age 40,Difference female-male (years)
-EVIEFE60,Females at age 60,Difference female-male (years)
-EVIEFE65,Females at age 65,Difference female-male (years)
-EVIEFE80,Females at age 80,Difference female-male (years)
-EVIEHO00,Males at birth,Difference male-female (years)
-EVIEHO40,Males at age 40,Difference male-female (years)
-EVIEHO60,Males at age 60,Difference male-female (years)
-EVIEHO65,Males at age 65,Difference male-female (years)
-EVIEHO80,Males at age 80,Difference male-female (years)
-COMDAIDS,Acquired immunodeficiency syndrome (AIDS),Number
+EVIEFE00_EVIFHOEV,Females at birth,Difference female-male (years)
+EVIEFE40_EVIFHOEV,Females at age 40,Difference female-male (years)
+EVIEFE60_EVIFHOEV,Females at age 60,Difference female-male (years)
+EVIEFE65_EVIFHOEV,Females at age 65,Difference female-male (years)
+EVIEFE80_EVIFHOEV,Females at age 80,Difference female-male (years)
+EVIEHO00_EVIHFEEV,Males at birth,Difference male-female (years)
+EVIEHO40_EVIHFEEV,Males at age 40,Difference male-female (years)
+EVIEHO60_EVIHFEEV,Males at age 60,Difference male-female (years)
+EVIEHO65_EVIHFEEV,Males at age 65,Difference male-female (years)
+EVIEHO80_EVIHFEEV,Males at age 80,Difference male-female (years)
+COMDAIDS_NOMBRENB,Acquired immunodeficiency syndrome (AIDS),Number
 SRECMA56,"Good/very good health, males aged 15+, High education (ISCED 5 to 8)",% of population (crude rate)
 SRECMA02,"Good/very good health, males aged 15+, Low education (ISCED 0 to 2)",% of population (crude rate)
 SRECGHQV,"Good/very good health, total aged 15+, Income quintile 5 (highest)",% of population (crude rate)
@@ -986,231 +986,231 @@ PRHSTGHE,"Good/very good health, total aged 15+",% of population (crude rate)
 PRHSFGHE,"Good/very good health, females aged 15+",% of population (crude rate)
 MATINETW,"Neonatal mortality, Minimum threshold of 22 weeks (or 500 grams birthweight)",Deaths per 1 000 live births
 MATIINTW,"Infant mortality, Minimum threshold of 22 weeks (or 500 grams birthweight)",Deaths per 1 000 live births
-CICDCERV,Cerebrovascular diseases,Deaths per 100 000 males (crude rates)
-CICDACCD,Accidents,Deaths per 100 000 males (crude rates)
-CICDHODG,Hodgkin’s disease,Deaths per 100 000 males (crude rates)
-CICDPEAU,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 males (crude rates)
-CICDSYMP,"Symptoms, signs, ill-defined causes",Deaths per 100 000 population (crude rates)
-CICDNERV,Diseases of the nervous system,Deaths per 100 000 females (crude rates)
-CICDSANG,Diseases of the blood and blood-forming organs,Deaths per 100 000 females (crude rates)
-CICDDBTM,Diabetes mellitus,Deaths per 100 000 population (crude rates)
-CICDPANC,Malignant neoplasms of pancreas,Deaths per 100 000 females (crude rates)
-CICDNERV,Diseases of the nervous system,Deaths per 100 000 males (crude rates)
-CICDREPS,Diseases of the respiratory system,Deaths per 100 000 males (crude rates)
-CICDNCRA,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 population (crude rates)
-CICDBAEM,Chronic obstructive pulmonary diseases,Deaths per 100 000 females (crude rates)
-CICDENDO,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 population (crude rates)
-CICDPEPT,Peptic ulcer,Deaths per 100 000 females (crude rates)
-CICDASMA,Asthma,Deaths per 100 000 females (crude rates)
-CICDPOSN,Accidental poisoning,Deaths per 100 000 population (crude rates)
-CICDMYOC,Acute myocardial infarction,Deaths per 100 000 females (crude rates)
-CICDSANG,Diseases of the blood and blood-forming organs,Deaths per 100 000 males (crude rates)
-CICDBAEM,Chronic obstructive pulmonary diseases,Deaths per 100 000 population (crude rates)
-CICDPOSN,Accidental poisoning,Deaths per 100 000 females (crude rates)
-CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 males (crude rates)
-CICDPEPT,Peptic ulcer,Deaths per 100 000 males (crude rates)
-CICDINPN,Influenza,Deaths per 100 000 population (crude rates)
-CICDALZH,Alzheimer's disease,Deaths per 100 000 population (crude rates)
-CICDCERV,Cerebrovascular diseases,Deaths per 100 000 population (crude rates)
-CICDHOCD,Assault,Deaths per 100 000 females (crude rates)
-CICDDBTM,Diabetes mellitus,Deaths per 100 000 males (crude rates)
-CICDCIRR,Chronic liver diseases and cirrhosis,Deaths per 100 000 females (crude rates)
-CICDCIRR,Chronic liver diseases and cirrhosis,Deaths per 100 000 males (crude rates)
-CICDPNEU,Pneumonia,Deaths per 100 000 females (crude rates)
-CICDHIVD,HIV-AIDS,Deaths per 100 000 population (crude rates)
-CICDLEUK,Leukemia,Deaths per 100 000 population (crude rates)
-CICDHODG,Hodgkin’s disease,Deaths per 100 000 population (crude rates)
-CICDHOCD,Assault,Deaths per 100 000 population (crude rates)
-CICDNEOP,Neoplasms,Deaths per 100 000 population (crude rates)
-CICDNCRA,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 males (crude rates)
-CICDNCRA,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 females (crude rates)
-CICDCRVX,Malignant neoplasms of cervix uteri,Deaths per 100 000 females (crude rates)
-CICDSKIN,Malignant melanoma of skin,Deaths per 100 000 males (crude rates)
-CICDMNBR,Malignant neoplasms of female breast,Deaths per 100 000 females (crude rates)
-CICDISCH,Ischaemic heart diseases,Deaths per 100 000 females (crude rates)
-CICDMYOC,Acute myocardial infarction,Deaths per 100 000 population (crude rates)
-CICDTROU,Mental and behavioural disorders,Deaths per 100 000 females (crude rates)
-CICDLIVR,Malignant neoplasms of liver,Deaths per 100 000 males (crude rates)
-CICDAFFE,Certain conditions originating in the perinatal period,Deaths per 100 000 population (crude rates)
-CICDCIRC,Diseases of the circulatory system,Deaths per 100 000 population (crude rates)
-CICDCIRR,Chronic liver diseases and cirrhosis,Deaths per 100 000 population (crude rates)
-CICDREPS,Diseases of the respiratory system,Deaths per 100 000 females (crude rates)
-CICDCIRC,Diseases of the circulatory system,Deaths per 100 000 males (crude rates)
-CICDHIVD,HIV-AIDS,Deaths per 100 000 males (crude rates)
-CICDINPN,Influenza,Deaths per 100 000 males (crude rates)
-CICDMNPR,Malignant neoplasms of prostate,Deaths per 100 000 males (crude rates)
-CICDTRAC,Transport Accidents,Deaths per 100 000 females (crude rates)
-CICDHARM,Intentional self-harm,Deaths per 100 000 population (crude rates)
-CICDEXTC,External causes of mortality,Deaths per 100 000 males (crude rates)
-CICDACCD,Accidents,Deaths per 100 000 females (crude rates)
-CICDSANG,Diseases of the blood and blood-forming organs,Deaths per 100 000 population (crude rates)
-CICDSYMP,"Symptoms, signs, ill-defined causes",Deaths per 100 000 females (crude rates)
-CICDCHUT,Accidental falls,Deaths per 100 000 population (crude rates)
-CICDSTOM,Malignant neoplasms of stomach,Deaths per 100 000 females (crude rates)
-CICDALLC,All causes of death,Deaths per 100 000 males (crude rates)
-CICDENDO,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 females (crude rates)
-CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 population (crude rates)
-CICDTUME,Malignant neoplasms,Deaths per 100 000 females (crude rates)
-CICDBLAD,Malignant neoplasms of bladder,Deaths per 100 000 males (crude rates)
-CICDHOCD,Assault,Deaths per 100 000 males (crude rates)
-CICDALLC,All causes of death,Deaths per 100 000 females (crude rates)
-CICDNERV,Diseases of the nervous system,Deaths per 100 000 population (crude rates)
-CICDPEAU,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 females (crude rates)
-CICDNEOP,Neoplasms,Deaths per 100 000 males (crude rates)
-CICDDIGE,Diseases of the digestive system,Deaths per 100 000 females (crude rates)
-CICDMYOC,Acute myocardial infarction,Deaths per 100 000 males (crude rates)
-CICDDMTA,Dementia,Deaths per 100 000 males (crude rates)
-CICDISCH,Ischaemic heart diseases,Deaths per 100 000 males (crude rates)
-CICDGENI,Diseases of the genitourinary system,Deaths per 100 000 population (crude rates)
-CICDBAEM,Chronic obstructive pulmonary diseases,Deaths per 100 000 males (crude rates)
-CICDPARK,Parkinson's disease,Deaths per 100 000 females (crude rates)
-CICDBLAD,Malignant neoplasms of bladder,Deaths per 100 000 females (crude rates)
-CICDCHUT,Accidental falls,Deaths per 100 000 females (crude rates)
-CICDTBLS,Tuberculosis,Deaths per 100 000 males (crude rates)
-CICDDIGE,Diseases of the digestive system,Deaths per 100 000 population (crude rates)
-CICDPANC,Malignant neoplasms of pancreas,Deaths per 100 000 population (crude rates)
-CICDTRAC,Transport Accidents,Deaths per 100 000 males (crude rates)
-CICDTRAC,Transport Accidents,Deaths per 100 000 population (crude rates)
-CICDCONG,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 females (crude rates)
-CICDTBLS,Tuberculosis,Deaths per 100 000 population (crude rates)
-CICDGENI,Diseases of the genitourinary system,Deaths per 100 000 males (crude rates)
-CICDDBTM,Diabetes mellitus,Deaths per 100 000 females (crude rates)
-CICDSKIN,Malignant melanoma of skin,Deaths per 100 000 females (crude rates)
-CICDEXTC,External causes of mortality,Deaths per 100 000 population (crude rates)
-CICDLIVR,Malignant neoplasms of liver,Deaths per 100 000 population (crude rates)
-CICDDMTA,Dementia,Deaths per 100 000 population (crude rates)
-CICDOSTE,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 population (crude rates)
-CICDPANC,Malignant neoplasms of pancreas,Deaths per 100 000 males (crude rates)
-CICDLIVR,Malignant neoplasms of liver,Deaths per 100 000 females (crude rates)
-CICDALZH,Alzheimer's disease,Deaths per 100 000 females (crude rates)
-CICDTROU,Mental and behavioural disorders,Deaths per 100 000 males (crude rates)
-CICDINFE,Certain infectious and parasitic diseases,Deaths per 100 000 males (crude rates)
-CICDSTOM,Malignant neoplasms of stomach,Deaths per 100 000 population (crude rates)
-CICDBLAD,Malignant neoplasms of bladder,Deaths per 100 000 population (crude rates)
-CICDHARM,Intentional self-harm,Deaths per 100 000 females (crude rates)
-CICDINFE,Certain infectious and parasitic diseases,Deaths per 100 000 population (crude rates)
-CICDAFFE,Certain conditions originating in the perinatal period,Deaths per 100 000 females (crude rates)
-CICDINFE,Certain infectious and parasitic diseases,Deaths per 100 000 females (crude rates)
-CICDPEAU,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 population (crude rates)
-CICDLEUK,Leukemia,Deaths per 100 000 males (crude rates)
-CICDHODG,Hodgkin’s disease,Deaths per 100 000 females (crude rates)
-CICDPARK,Parkinson's disease,Deaths per 100 000 population (crude rates)
-CICDLEUK,Leukemia,Deaths per 100 000 females (crude rates)
-CICDOSTE,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 females (crude rates)
-CICDNEOP,Neoplasms,Deaths per 100 000 females (crude rates)
-CICDISCH,Ischaemic heart diseases,Deaths per 100 000 population (crude rates)
-CICDDIGE,Diseases of the digestive system,Deaths per 100 000 males (crude rates)
-CICDGROS,"Pregnancy, childbirth and the puerperium",Deaths per 100 000 females (crude rates)
-CICDOSTE,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 males (crude rates)
-CICDTROU,Mental and behavioural disorders,Deaths per 100 000 population (crude rates)
-CICDPEPT,Peptic ulcer,Deaths per 100 000 population (crude rates)
-CICDPNEU,Pneumonia,Deaths per 100 000 population (crude rates)
-CICDPOSN,Accidental poisoning,Deaths per 100 000 males (crude rates)
-CICDTUME,Malignant neoplasms,Deaths per 100 000 males (crude rates)
-CICDEXTC,External causes of mortality,Deaths per 100 000 females (crude rates)
-CICDHIVD,HIV-AIDS,Deaths per 100 000 females (crude rates)
-CICDSYMP,"Symptoms, signs, ill-defined causes",Deaths per 100 000 males (crude rates)
-CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 females (crude rates)
-CICDACCD,Accidents,Deaths per 100 000 population (crude rates)
-CICDAFFE,Certain conditions originating in the perinatal period,Deaths per 100 000 males (crude rates)
-CICDENDO,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 males (crude rates)
-CICDTUME,Malignant neoplasms,Deaths per 100 000 population (crude rates)
-CICDREPS,Diseases of the respiratory system,Deaths per 100 000 population (crude rates)
-CICDSTOM,Malignant neoplasms of stomach,Deaths per 100 000 males (crude rates)
-CICDASMA,Asthma,Deaths per 100 000 population (crude rates)
-CICDCONG,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 males (crude rates)
-CICDALLC,All causes of death,Deaths per 100 000 population (crude rates)
-CICDASMA,Asthma,Deaths per 100 000 males (crude rates)
-CICDTBLS,Tuberculosis,Deaths per 100 000 females (crude rates)
-CICDCHUT,Accidental falls,Deaths per 100 000 males (crude rates)
-CICDCIRC,Diseases of the circulatory system,Deaths per 100 000 females (crude rates)
-CICDCONG,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 population (crude rates)
-CICDPARK,Parkinson's disease,Deaths per 100 000 males (crude rates)
-CICDALZH,Alzheimer's disease,Deaths per 100 000 males (crude rates)
-CICDDMTA,Dementia,Deaths per 100 000 females (crude rates)
-CICDOVRY,Malignant neoplasms of ovary,Deaths per 100 000 females (crude rates)
-CICDSKIN,Malignant melanoma of skin,Deaths per 100 000 population (crude rates)
-CICDHARM,Intentional self-harm,Deaths per 100 000 males (crude rates)
-CICDPNEU,Pneumonia,Deaths per 100 000 males (crude rates)
-CICDINPN,Influenza,Deaths per 100 000 females (crude rates)
-CICDCERV,Cerebrovascular diseases,Deaths per 100 000 females (crude rates)
-CICDGENI,Diseases of the genitourinary system,Deaths per 100 000 females (crude rates)
-AVDMTRTM,Treatable mortality,Number of female deaths
-AVDMPRVM,Preventable mortality,Deaths per 100 000 females (standardised rates)
-AVDMTRTM,Treatable mortality,Deaths per 100 000 females (standardised rates)
-AVDMTRTM,Treatable mortality,Number of total deaths
-AVDMPRVM,Preventable mortality,Number of total deaths
-AVDMPRVM,Preventable mortality,Number of male deaths
-AVDMPRVM,Preventable mortality,Deaths per 100 000 males (standardised rates)
-AVDMPRVM,Preventable mortality,Number of female deaths
-AVDMTRTM,Treatable mortality,Deaths per 100 000 males (standardised rates)
-AVDMTRTM,Treatable mortality,Number of male deaths
-AVDMTRTM,Treatable mortality,Deaths per 100 000 population (standardised rates)
-AVDMPRVM,Preventable mortality,Deaths per 100 000 population (standardised rates)
-AVDMAVOI,Avoidable mortality (preventable+treatable),Deaths per 100 000 females (standardised rates)
-AVDMAVOI,Avoidable mortality (preventable+treatable),Deaths per 100 000 males (standardised rates)
-AVDMAVOI,Avoidable mortality (preventable+treatable),Number of total deaths
-AVDMAVOI,Avoidable mortality (preventable+treatable),Number of female deaths
-AVDMAVOI,Avoidable mortality (preventable+treatable),Number of male deaths
-AVDMAVOI,Avoidable mortality (preventable+treatable),Deaths per 100 000 population (standardised rates)
-CICDCVID,Codes for special purposes: COVID-19,Deaths per 100 000 males (standardised rates)
-CICDCVID,Codes for special purposes: COVID-19,Deaths per 100 000 males (crude rates)
-CICDCVID,Codes for special purposes: COVID-19,Deaths per 100 000 females (standardised rates)
-CICDCVID,Codes for special purposes: COVID-19,Deaths per 100 000 population (crude rates)
-PLYLCVID,Codes for special purposes: COVID-19,"Years lost, /100 000 females, aged 75 years old"
-CICDCVID,Codes for special purposes: COVID-19,Deaths per 100 000 females (crude rates)
-CICDCVID,Codes for special purposes: COVID-19,Number of total deaths
-CICDCVID,Codes for special purposes: COVID-19,Number of female deaths
-CICDCVID,Codes for special purposes: COVID-19,Number of male deaths
-CICDCVID,Codes for special purposes: COVID-19,Deaths per 100 000 population (standardised rates)
-PLYLCVID,Codes for special purposes: COVID-19,"Years lost, /100 000 population, aged 75 years old"
-PLYLCVID,Codes for special purposes: COVID-19,"Years lost, /100 000 males, aged 75 years old"
+CICDCERV_TXCRUDTH,Cerebrovascular diseases,Deaths per 100 000 males (crude rates)
+CICDACCD_TXCRUDTH,Accidents,Deaths per 100 000 males (crude rates)
+CICDHODG_TXCRUDTH,Hodgkin’s disease,Deaths per 100 000 males (crude rates)
+CICDPEAU_TXCRUDTH,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 males (crude rates)
+CICDSYMP_TXCRUDTX,"Symptoms, signs, ill-defined causes",Deaths per 100 000 population (crude rates)
+CICDNERV_TXCRUDTF,Diseases of the nervous system,Deaths per 100 000 females (crude rates)
+CICDSANG_TXCRUDTF,Diseases of the blood and blood-forming organs,Deaths per 100 000 females (crude rates)
+CICDDBTM_TXCRUDTX,Diabetes mellitus,Deaths per 100 000 population (crude rates)
+CICDPANC_TXCRUDTF,Malignant neoplasms of pancreas,Deaths per 100 000 females (crude rates)
+CICDNERV_TXCRUDTH,Diseases of the nervous system,Deaths per 100 000 males (crude rates)
+CICDREPS_TXCRUDTH,Diseases of the respiratory system,Deaths per 100 000 males (crude rates)
+CICDNCRA_TXCRUDTX,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 population (crude rates)
+CICDBAEM_TXCRUDTF,Chronic obstructive pulmonary diseases,Deaths per 100 000 females (crude rates)
+CICDENDO_TXCRUDTX,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 population (crude rates)
+CICDPEPT_TXCRUDTF,Peptic ulcer,Deaths per 100 000 females (crude rates)
+CICDASMA_TXCRUDTF,Asthma,Deaths per 100 000 females (crude rates)
+CICDPOSN_TXCRUDTX,Accidental poisoning,Deaths per 100 000 population (crude rates)
+CICDMYOC_TXCRUDTF,Acute myocardial infarction,Deaths per 100 000 females (crude rates)
+CICDSANG_TXCRUDTH,Diseases of the blood and blood-forming organs,Deaths per 100 000 males (crude rates)
+CICDBAEM_TXCRUDTX,Chronic obstructive pulmonary diseases,Deaths per 100 000 population (crude rates)
+CICDPOSN_TXCRUDTF,Accidental poisoning,Deaths per 100 000 females (crude rates)
+CICDCANC_TXCRUDTH,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 males (crude rates)
+CICDPEPT_TXCRUDTH,Peptic ulcer,Deaths per 100 000 males (crude rates)
+CICDINPN_TXCRUDTX,Influenza,Deaths per 100 000 population (crude rates)
+CICDALZH_TXCRUDTX,Alzheimer's disease,Deaths per 100 000 population (crude rates)
+CICDCERV_TXCRUDTX,Cerebrovascular diseases,Deaths per 100 000 population (crude rates)
+CICDHOCD_TXCRUDTF,Assault,Deaths per 100 000 females (crude rates)
+CICDDBTM_TXCRUDTH,Diabetes mellitus,Deaths per 100 000 males (crude rates)
+CICDCIRR_TXCRUDTF,Chronic liver diseases and cirrhosis,Deaths per 100 000 females (crude rates)
+CICDCIRR_TXCRUDTH,Chronic liver diseases and cirrhosis,Deaths per 100 000 males (crude rates)
+CICDPNEU_TXCRUDTF,Pneumonia,Deaths per 100 000 females (crude rates)
+CICDHIVD_TXCRUDTX,HIV-AIDS,Deaths per 100 000 population (crude rates)
+CICDLEUK_TXCRUDTX,Leukemia,Deaths per 100 000 population (crude rates)
+CICDHODG_TXCRUDTX,Hodgkin’s disease,Deaths per 100 000 population (crude rates)
+CICDHOCD_TXCRUDTX,Assault,Deaths per 100 000 population (crude rates)
+CICDNEOP_TXCRUDTX,Neoplasms,Deaths per 100 000 population (crude rates)
+CICDNCRA_TXCRUDTH,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 males (crude rates)
+CICDNCRA_TXCRUDTF,"Malignant neoplasms of colon, rectum and anus",Deaths per 100 000 females (crude rates)
+CICDCRVX_TXCRUDTF,Malignant neoplasms of cervix uteri,Deaths per 100 000 females (crude rates)
+CICDSKIN_TXCRUDTH,Malignant melanoma of skin,Deaths per 100 000 males (crude rates)
+CICDMNBR_TXCRUDTF,Malignant neoplasms of female breast,Deaths per 100 000 females (crude rates)
+CICDISCH_TXCRUDTF,Ischaemic heart diseases,Deaths per 100 000 females (crude rates)
+CICDMYOC_TXCRUDTX,Acute myocardial infarction,Deaths per 100 000 population (crude rates)
+CICDTROU_TXCRUDTF,Mental and behavioural disorders,Deaths per 100 000 females (crude rates)
+CICDLIVR_TXCRUDTH,Malignant neoplasms of liver,Deaths per 100 000 males (crude rates)
+CICDAFFE_TXCRUDTX,Certain conditions originating in the perinatal period,Deaths per 100 000 population (crude rates)
+CICDCIRC_TXCRUDTX,Diseases of the circulatory system,Deaths per 100 000 population (crude rates)
+CICDCIRR_TXCRUDTX,Chronic liver diseases and cirrhosis,Deaths per 100 000 population (crude rates)
+CICDREPS_TXCRUDTF,Diseases of the respiratory system,Deaths per 100 000 females (crude rates)
+CICDCIRC_TXCRUDTH,Diseases of the circulatory system,Deaths per 100 000 males (crude rates)
+CICDHIVD_TXCRUDTH,HIV-AIDS,Deaths per 100 000 males (crude rates)
+CICDINPN_TXCRUDTH,Influenza,Deaths per 100 000 males (crude rates)
+CICDMNPR_TXCRUDTH,Malignant neoplasms of prostate,Deaths per 100 000 males (crude rates)
+CICDTRAC_TXCRUDTF,Transport Accidents,Deaths per 100 000 females (crude rates)
+CICDHARM_TXCRUDTX,Intentional self-harm,Deaths per 100 000 population (crude rates)
+CICDEXTC_TXCRUDTH,External causes of mortality,Deaths per 100 000 males (crude rates)
+CICDACCD_TXCRUDTF,Accidents,Deaths per 100 000 females (crude rates)
+CICDSANG_TXCRUDTX,Diseases of the blood and blood-forming organs,Deaths per 100 000 population (crude rates)
+CICDSYMP_TXCRUDTF,"Symptoms, signs, ill-defined causes",Deaths per 100 000 females (crude rates)
+CICDCHUT_TXCRUDTX,Accidental falls,Deaths per 100 000 population (crude rates)
+CICDSTOM_TXCRUDTF,Malignant neoplasms of stomach,Deaths per 100 000 females (crude rates)
+CICDALLC_TXCRUDTH,All causes of death,Deaths per 100 000 males (crude rates)
+CICDENDO_TXCRUDTF,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 females (crude rates)
+CICDCANC_TXCRUDTX,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 population (crude rates)
+CICDTUME_TXCRUDTF,Malignant neoplasms,Deaths per 100 000 females (crude rates)
+CICDBLAD_TXCRUDTH,Malignant neoplasms of bladder,Deaths per 100 000 males (crude rates)
+CICDHOCD_TXCRUDTH,Assault,Deaths per 100 000 males (crude rates)
+CICDALLC_TXCRUDTF,All causes of death,Deaths per 100 000 females (crude rates)
+CICDNERV_TXCRUDTX,Diseases of the nervous system,Deaths per 100 000 population (crude rates)
+CICDPEAU_TXCRUDTF,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 females (crude rates)
+CICDNEOP_TXCRUDTH,Neoplasms,Deaths per 100 000 males (crude rates)
+CICDDIGE_TXCRUDTF,Diseases of the digestive system,Deaths per 100 000 females (crude rates)
+CICDMYOC_TXCRUDTH,Acute myocardial infarction,Deaths per 100 000 males (crude rates)
+CICDDMTA_TXCRUDTH,Dementia,Deaths per 100 000 males (crude rates)
+CICDISCH_TXCRUDTH,Ischaemic heart diseases,Deaths per 100 000 males (crude rates)
+CICDGENI_TXCRUDTX,Diseases of the genitourinary system,Deaths per 100 000 population (crude rates)
+CICDBAEM_TXCRUDTH,Chronic obstructive pulmonary diseases,Deaths per 100 000 males (crude rates)
+CICDPARK_TXCRUDTF,Parkinson's disease,Deaths per 100 000 females (crude rates)
+CICDBLAD_TXCRUDTF,Malignant neoplasms of bladder,Deaths per 100 000 females (crude rates)
+CICDCHUT_TXCRUDTF,Accidental falls,Deaths per 100 000 females (crude rates)
+CICDTBLS_TXCRUDTH,Tuberculosis,Deaths per 100 000 males (crude rates)
+CICDDIGE_TXCRUDTX,Diseases of the digestive system,Deaths per 100 000 population (crude rates)
+CICDPANC_TXCRUDTX,Malignant neoplasms of pancreas,Deaths per 100 000 population (crude rates)
+CICDTRAC_TXCRUDTH,Transport Accidents,Deaths per 100 000 males (crude rates)
+CICDTRAC_TXCRUDTX,Transport Accidents,Deaths per 100 000 population (crude rates)
+CICDCONG_TXCRUDTF,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 females (crude rates)
+CICDTBLS_TXCRUDTX,Tuberculosis,Deaths per 100 000 population (crude rates)
+CICDGENI_TXCRUDTH,Diseases of the genitourinary system,Deaths per 100 000 males (crude rates)
+CICDDBTM_TXCRUDTF,Diabetes mellitus,Deaths per 100 000 females (crude rates)
+CICDSKIN_TXCRUDTF,Malignant melanoma of skin,Deaths per 100 000 females (crude rates)
+CICDEXTC_TXCRUDTX,External causes of mortality,Deaths per 100 000 population (crude rates)
+CICDLIVR_TXCRUDTX,Malignant neoplasms of liver,Deaths per 100 000 population (crude rates)
+CICDDMTA_TXCRUDTX,Dementia,Deaths per 100 000 population (crude rates)
+CICDOSTE_TXCRUDTX,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 population (crude rates)
+CICDPANC_TXCRUDTH,Malignant neoplasms of pancreas,Deaths per 100 000 males (crude rates)
+CICDLIVR_TXCRUDTF,Malignant neoplasms of liver,Deaths per 100 000 females (crude rates)
+CICDALZH_TXCRUDTF,Alzheimer's disease,Deaths per 100 000 females (crude rates)
+CICDTROU_TXCRUDTH,Mental and behavioural disorders,Deaths per 100 000 males (crude rates)
+CICDINFE_TXCRUDTH,Certain infectious and parasitic diseases,Deaths per 100 000 males (crude rates)
+CICDSTOM_TXCRUDTX,Malignant neoplasms of stomach,Deaths per 100 000 population (crude rates)
+CICDBLAD_TXCRUDTX,Malignant neoplasms of bladder,Deaths per 100 000 population (crude rates)
+CICDHARM_TXCRUDTF,Intentional self-harm,Deaths per 100 000 females (crude rates)
+CICDINFE_TXCRUDTX,Certain infectious and parasitic diseases,Deaths per 100 000 population (crude rates)
+CICDAFFE_TXCRUDTF,Certain conditions originating in the perinatal period,Deaths per 100 000 females (crude rates)
+CICDINFE_TXCRUDTF,Certain infectious and parasitic diseases,Deaths per 100 000 females (crude rates)
+CICDPEAU_TXCRUDTX,Diseases of the skin and subcutaneous tissue,Deaths per 100 000 population (crude rates)
+CICDLEUK_TXCRUDTH,Leukemia,Deaths per 100 000 males (crude rates)
+CICDHODG_TXCRUDTF,Hodgkin’s disease,Deaths per 100 000 females (crude rates)
+CICDPARK_TXCRUDTX,Parkinson's disease,Deaths per 100 000 population (crude rates)
+CICDLEUK_TXCRUDTF,Leukemia,Deaths per 100 000 females (crude rates)
+CICDOSTE_TXCRUDTF,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 females (crude rates)
+CICDNEOP_TXCRUDTF,Neoplasms,Deaths per 100 000 females (crude rates)
+CICDISCH_TXCRUDTX,Ischaemic heart diseases,Deaths per 100 000 population (crude rates)
+CICDDIGE_TXCRUDTH,Diseases of the digestive system,Deaths per 100 000 males (crude rates)
+CICDGROS_TXCRUDTF,"Pregnancy, childbirth and the puerperium",Deaths per 100 000 females (crude rates)
+CICDOSTE_TXCRUDTH,Diseases of the musculoskeletal system and connective tissue,Deaths per 100 000 males (crude rates)
+CICDTROU_TXCRUDTX,Mental and behavioural disorders,Deaths per 100 000 population (crude rates)
+CICDPEPT_TXCRUDTX,Peptic ulcer,Deaths per 100 000 population (crude rates)
+CICDPNEU_TXCRUDTX,Pneumonia,Deaths per 100 000 population (crude rates)
+CICDPOSN_TXCRUDTH,Accidental poisoning,Deaths per 100 000 males (crude rates)
+CICDTUME_TXCRUDTH,Malignant neoplasms,Deaths per 100 000 males (crude rates)
+CICDEXTC_TXCRUDTF,External causes of mortality,Deaths per 100 000 females (crude rates)
+CICDHIVD_TXCRUDTF,HIV-AIDS,Deaths per 100 000 females (crude rates)
+CICDSYMP_TXCRUDTH,"Symptoms, signs, ill-defined causes",Deaths per 100 000 males (crude rates)
+CICDCANC_TXCRUDTF,"Malignant neoplasms of trachea, bronchus, lung",Deaths per 100 000 females (crude rates)
+CICDACCD_TXCRUDTX,Accidents,Deaths per 100 000 population (crude rates)
+CICDAFFE_TXCRUDTH,Certain conditions originating in the perinatal period,Deaths per 100 000 males (crude rates)
+CICDENDO_TXCRUDTH,"Endocrine, nutritional and metabolic diseases",Deaths per 100 000 males (crude rates)
+CICDTUME_TXCRUDTX,Malignant neoplasms,Deaths per 100 000 population (crude rates)
+CICDREPS_TXCRUDTX,Diseases of the respiratory system,Deaths per 100 000 population (crude rates)
+CICDSTOM_TXCRUDTH,Malignant neoplasms of stomach,Deaths per 100 000 males (crude rates)
+CICDASMA_TXCRUDTX,Asthma,Deaths per 100 000 population (crude rates)
+CICDCONG_TXCRUDTH,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 males (crude rates)
+CICDALLC_TXCRUDTX,All causes of death,Deaths per 100 000 population (crude rates)
+CICDASMA_TXCRUDTH,Asthma,Deaths per 100 000 males (crude rates)
+CICDTBLS_TXCRUDTF,Tuberculosis,Deaths per 100 000 females (crude rates)
+CICDCHUT_TXCRUDTH,Accidental falls,Deaths per 100 000 males (crude rates)
+CICDCIRC_TXCRUDTF,Diseases of the circulatory system,Deaths per 100 000 females (crude rates)
+CICDCONG_TXCRUDTX,"Congenital malformations, deformations and chromosomal abnormalities",Deaths per 100 000 population (crude rates)
+CICDPARK_TXCRUDTH,Parkinson's disease,Deaths per 100 000 males (crude rates)
+CICDALZH_TXCRUDTH,Alzheimer's disease,Deaths per 100 000 males (crude rates)
+CICDDMTA_TXCRUDTF,Dementia,Deaths per 100 000 females (crude rates)
+CICDOVRY_TXCRUDTF,Malignant neoplasms of ovary,Deaths per 100 000 females (crude rates)
+CICDSKIN_TXCRUDTX,Malignant melanoma of skin,Deaths per 100 000 population (crude rates)
+CICDHARM_TXCRUDTH,Intentional self-harm,Deaths per 100 000 males (crude rates)
+CICDPNEU_TXCRUDTH,Pneumonia,Deaths per 100 000 males (crude rates)
+CICDINPN_TXCRUDTF,Influenza,Deaths per 100 000 females (crude rates)
+CICDCERV_TXCRUDTF,Cerebrovascular diseases,Deaths per 100 000 females (crude rates)
+CICDGENI_TXCRUDTF,Diseases of the genitourinary system,Deaths per 100 000 females (crude rates)
+AVDMTRTM_NBFEMEPF,Treatable mortality,Number of female deaths
+AVDMPRVM_TXCMFETF,Preventable mortality,Deaths per 100 000 females (standardised rates)
+AVDMTRTM_TXCMFETF,Treatable mortality,Deaths per 100 000 females (standardised rates)
+AVDMTRTM_NBPOPUPC,Treatable mortality,Number of total deaths
+AVDMPRVM_NBPOPUPC,Preventable mortality,Number of total deaths
+AVDMPRVM_NBMALEPH,Preventable mortality,Number of male deaths
+AVDMPRVM_TXCMHOTH,Preventable mortality,Deaths per 100 000 males (standardised rates)
+AVDMPRVM_NBFEMEPF,Preventable mortality,Number of female deaths
+AVDMTRTM_TXCMHOTH,Treatable mortality,Deaths per 100 000 males (standardised rates)
+AVDMTRTM_NBMALEPH,Treatable mortality,Number of male deaths
+AVDMTRTM_TXCMILTX,Treatable mortality,Deaths per 100 000 population (standardised rates)
+AVDMPRVM_TXCMILTX,Preventable mortality,Deaths per 100 000 population (standardised rates)
+AVDMAVOI_TXCMFETF,Avoidable mortality (preventable+treatable),Deaths per 100 000 females (standardised rates)
+AVDMAVOI_TXCMHOTH,Avoidable mortality (preventable+treatable),Deaths per 100 000 males (standardised rates)
+AVDMAVOI_NBPOPUPC,Avoidable mortality (preventable+treatable),Number of total deaths
+AVDMAVOI_NBFEMEPF,Avoidable mortality (preventable+treatable),Number of female deaths
+AVDMAVOI_NBMALEPH,Avoidable mortality (preventable+treatable),Number of male deaths
+AVDMAVOI_TXCMILTX,Avoidable mortality (preventable+treatable),Deaths per 100 000 population (standardised rates)
+CICDCVID_TXCMHOTH,Codes for special purposes: COVID-19,Deaths per 100 000 males (standardised rates)
+CICDCVID_TXCRUDTH,Codes for special purposes: COVID-19,Deaths per 100 000 males (crude rates)
+CICDCVID_TXCMFETF,Codes for special purposes: COVID-19,Deaths per 100 000 females (standardised rates)
+CICDCVID_TXCRUDTX,Codes for special purposes: COVID-19,Deaths per 100 000 population (crude rates)
+PLYLCVID_ANNFEMTF,Codes for special purposes: COVID-19,"Years lost, /100 000 females, aged 75 years old"
+CICDCVID_TXCRUDTF,Codes for special purposes: COVID-19,Deaths per 100 000 females (crude rates)
+CICDCVID_NBPOPUPC,Codes for special purposes: COVID-19,Number of total deaths
+CICDCVID_NBFEMEPF,Codes for special purposes: COVID-19,Number of female deaths
+CICDCVID_NBMALEPH,Codes for special purposes: COVID-19,Number of male deaths
+CICDCVID_TXCMILTX,Codes for special purposes: COVID-19,Deaths per 100 000 population (standardised rates)
+PLYLCVID_ANNTOTTX,Codes for special purposes: COVID-19,"Years lost, /100 000 population, aged 75 years old"
+PLYLCVID_ANNHOMTH,Codes for special purposes: COVID-19,"Years lost, /100 000 males, aged 75 years old"
 TPRIBASI,Total public and primary voluntary health insurance coverage,% of total population covered
-COVGCMED,Government/compulsory health insurance coverage,% of total population
-COVGCMED,Government/compulsory health insurance coverage,Thousands of persons
-PHINTPHI,Total voluntary health insurance (VHI) coverage,% of total population
-PHINTPHI,Total voluntary health insurance (VHI) coverage,Thousands of persons
-PHINPMPI,Primary voluntary health insurance (VHI) coverage,% of total population
-PHINPMPI,Primary voluntary health insurance (VHI) coverage,Thousands of persons
-PHINDUPI,Duplicate voluntary health insurance (VHI) coverage,% of total population
-PHINDUPI,Duplicate voluntary health insurance (VHI) coverage,Thousands of persons
-PHINCMPI,Complementary voluntary health insurance (VHI) coverage,% of total population
-PHINCMPI,Complementary voluntary health insurance (VHI) coverage,Thousands of persons
-PHINSUPI,Supplementary voluntary health insurance (VHI) coverage,% of total population
-PHINSUPI,Supplementary voluntary health insurance (VHI) coverage,Thousands of persons
-DEMOFEMP,"Female population, incl. France Metropolitan + D.O.M. (overseas departments)",Thousands of persons
-DEMOMALP,"Male population, incl. France Metropolitan + D.O.M. (overseas departments)",Thousands of persons
-STRUSFPL,Population: 65 years old and over,Thousands of persons
-STRUPP80,Population: 80 years old and over,Thousands of persons
-JOBSCIVL,Total civilian employment,Thousands of persons
+COVGCMED_TOTPOPTX,Government/compulsory health insurance coverage,% of total population
+COVGCMED_EFFPEREF,Government/compulsory health insurance coverage,Thousands of persons
+PHINTPHI_TOTPOPTX,Total voluntary health insurance (VHI) coverage,% of total population
+PHINTPHI_EFFPEREF,Total voluntary health insurance (VHI) coverage,Thousands of persons
+PHINPMPI_TOTPOPTX,Primary voluntary health insurance (VHI) coverage,% of total population
+PHINPMPI_EFFPEREF,Primary voluntary health insurance (VHI) coverage,Thousands of persons
+PHINDUPI_TOTPOPTX,Duplicate voluntary health insurance (VHI) coverage,% of total population
+PHINDUPI_EFFPEREF,Duplicate voluntary health insurance (VHI) coverage,Thousands of persons
+PHINCMPI_TOTPOPTX,Complementary voluntary health insurance (VHI) coverage,% of total population
+PHINCMPI_EFFPEREF,Complementary voluntary health insurance (VHI) coverage,Thousands of persons
+PHINSUPI_TOTPOPTX,Supplementary voluntary health insurance (VHI) coverage,% of total population
+PHINSUPI_EFFPEREF,Supplementary voluntary health insurance (VHI) coverage,Thousands of persons
+DEMOFEMP_EFFPEREF,"Female population, incl. France Metropolitan + D.O.M. (overseas departments)",Thousands of persons
+DEMOMALP_EFFPEREF,"Male population, incl. France Metropolitan + D.O.M. (overseas departments)",Thousands of persons
+STRUSFPL_EFFPEREF,Population: 65 years old and over,Thousands of persons
+STRUPP80_EFFPEREF,Population: 80 years old and over,Thousands of persons
+JOBSCIVL_EFFPEREF,Total civilian employment,Thousands of persons
 DEMOFECO,Fertility,Children per women aged 15 to 49 years old
-STRUSFPL,Population: 65 years old and over,Thousands of females
-STRUPP80,Population: 80 years old and over,Thousands of females
-STRUSFPL,Population: 65 years old and over,Thousands of males
-STRUPP80,Population: 80 years old and over,Thousands of males
-DEMONATA,Live births,Number of live births (in thousands)
-DEMOFEMP,"Female population, incl. France Metropolitan + D.O.M. (overseas departments)",Female to male ratio
-DEMOMALP,"Male population, incl. France Metropolitan + D.O.M. (overseas departments)",Male to female ratio
-DEMONATA,Live births,"Births, crude rate per 1 000 population"
-DEMOFEMP,"Female population, incl. France Metropolitan + D.O.M. (overseas departments)",% of total population
-DEMOMALP,"Male population, incl. France Metropolitan + D.O.M. (overseas departments)",% of total population
-STRUSFPL,Population: 65 years old and over,% of total population
-STRUPP80,Population: 80 years old and over,% of total population
-JOBSCIVL,Total civilian employment,% of total population
+STRUSFPL_THFEMETF,Population: 65 years old and over,Thousands of females
+STRUPP80_THFEMETF,Population: 80 years old and over,Thousands of females
+STRUSFPL_THHOMOTH,Population: 65 years old and over,Thousands of males
+STRUPP80_THHOMOTH,Population: 80 years old and over,Thousands of males
+DEMONATA_NMBERSNB,Live births,Number of live births (in thousands)
+DEMOFEMP_FPARRHEF,"Female population, incl. France Metropolitan + D.O.M. (overseas departments)",Female to male ratio
+DEMOMALP_FPARRFEF,"Male population, incl. France Metropolitan + D.O.M. (overseas departments)",Male to female ratio
+DEMONATA_CDRMILNB,Live births,"Births, crude rate per 1 000 population"
+DEMOFEMP_TOTPOPTX,"Female population, incl. France Metropolitan + D.O.M. (overseas departments)",% of total population
+DEMOMALP_TOTPOPTX,"Male population, incl. France Metropolitan + D.O.M. (overseas departments)",% of total population
+STRUSFPL_TOTPOPTX,Population: 65 years old and over,% of total population
+STRUPP80_TOTPOPTX,Population: 80 years old and over,% of total population
+JOBSCIVL_TOTPOPTX,Total civilian employment,% of total population
 DEMODOMP,"Total population, incl. France Metropolitan + D.O.M. (overseas departments)",Thousands of persons
-ECONPIBN,Gross domestic product (GDP),Price index (2015=100)
-ECONPIBN,Gross domestic product (GDP),Million of national currency units
+ECONPIBN_INDICEIP,Gross domestic product (GDP),Price index (2015=100)
+ECONPIBN_MLLNCUMT,Gross domestic product (GDP),Million of national currency units
 ECONAVPW,Average annual wages,Current prices in NCU
-CONVCHAN,US$ exchange rate,National currency unit per US$
+CONVCHAN_TXUSDLTX,US$ exchange rate,National currency unit per US$
 CONVPPAC,"Purchasing Power Parities for GDP, US$","National currency unit per US$, PPP"
-CONVCHAN,US$ exchange rate,Millions of national currency unit per US$
-ECONPIBN,Gross domestic product (GDP),Million US$ at exchange rate
-ECONPIBN,Gross domestic product (GDP),"Million US$, purchasing power parity"
-ECONPIBN,Gross domestic product (GDP),Million NCU at 2015 GDP price level
-ECONPIBN,Gross domestic product (GDP),"/capita, national currency units"
-ECONPIBN,Gross domestic product (GDP),"/capita, US$ exchange rate"
-ECONPIBN,Gross domestic product (GDP),"/capita, US$ purchasing power parity"
-ECONPIBN,Gross domestic product (GDP),"/capita, NCU at 2015 GDP price level"
+CONVCHAN_MLUSDXRA,US$ exchange rate,Millions of national currency unit per US$
+ECONPIBN_MTMOTCMT,Gross domestic product (GDP),Million US$ at exchange rate
+ECONPIBN_MTMOPPMT,Gross domestic product (GDP),"Million US$, purchasing power parity"
+ECONPIBN_VALRELMT,Gross domestic product (GDP),Million NCU at 2015 GDP price level
+ECONPIBN_UNPPERMT,Gross domestic product (GDP),"/capita, national currency units"
+ECONPIBN_TCPPERMT,Gross domestic product (GDP),"/capita, US$ exchange rate"
+ECONPIBN_PPPPERMT,Gross domestic product (GDP),"/capita, US$ purchasing power parity"
+ECONPIBN_REPPERMT,Gross domestic product (GDP),"/capita, NCU at 2015 GDP price level"
 ECONAICO,Actual individual consumption (AIC),Price index (2015=100)
 CONVAICP,"Purchasing Power Parities for actual individual consumption, US$","National currency unit per US$, PPP"
 CONVPVCP,"Purchasing Power Parities for private consumption, US$","National currency unit per US$, PPP"
